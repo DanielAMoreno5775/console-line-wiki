@@ -1,0 +1,661 @@
+{
+	»ArticleTitle: «Apple
+	»Code 1: «APL
+	»Code 2: «APL
+	»SectionTitle: «Summary
+	Line «#1:«Kingdom: Plantae
+	Line «#2:«Clade: Tracheophytes
+	Line «#3:«Clade: Angiosperms
+	Line «#4:«Clade: Eudicots
+	Line «#5:«Clade: Rosids
+	Line «#6:«Order: Rosales
+	Line «#7:«Family: Rosaceae
+	Line «#8:«Genus: Malus
+	Line «#9:«Species: Domestica
+	Line «#10:«Binomial name: Malus domestica
+	»SectionTitle: «Intro
+	Line «#1:«An apple is an edible fruit produced by an apple tree (Malus domestica). Apple trees are cultivated worldwide and are the most widely grown species in the genus Malus. The tree originated in Central Asia, where its wild ancestor, Malus sieversii, is still found today. Apples have been grown for thousands of years in Asia and Europe and were brought to North America by European colonists. Apples have religious and mythological significance in many cultures, including Norse, Greek, and European Christian tradition.
+	Line «#2:«
+	Line «#3:«Apples grown from seed tend to be very different from those of their parents, and the resultant fruit frequently lacks desired characteristics. Generally, apple cultivars are propagated by clonal grafting onto rootstocks. Apple trees grown without rootstocks tend to be larger and much slower to fruit after planting. Rootstocks are used to control the speed of growth and the size of the resulting tree, allowing for easier harvesting.
+	Line «#4:«
+	Line «#5:«There are more than 7,500 known cultivars of apples. Different cultivars are bred for various tastes and uses, including cooking, eating raw, and cider production. Trees and fruit are prone to a number of fungal, bacterial, and pest problems, which can be controlled by a number of organic and non-organic means. In 2010, the fruit's genome was sequenced as part of research on disease control and selective breeding in apple production.
+	Line «#6:«
+	Line «#7:«Worldwide production of apples in 2018 was 86 million tonnes, with China accounting for nearly half of the total.[3] 
+	»SectionTitle: «Etymology
+	Line «#1:«The word apple, whose Old English ancestor is ‘ppel, is descended from the Proto-Germanic noun *aplaz, descended in turn from Proto-Indo-European *h2‚bol.[citation needed]
+	Line «#2:«
+	Line «#3:«As late as the 17th century, the word also functioned as a generic term for all fruit including nuts-such as the 14th-century Middle English expression appel of paradis, meaning a banana.[4] This use is analogous to the French language use of pomme.[citation needed] 
+	»SectionTitle: «Description
+	Line «#1:«The apple is a deciduous tree, generally standing 2 to 4.5ÿm (6 to 15ÿft) tall in cultivation and up to 9ÿm (30ÿft) in the wild. When cultivated, the size, shape and branch density are determined by rootstock selection and trimming method. The leaves are alternately arranged dark green-colored simple ovals with serrated margins and slightly downy undersides.[5]
+	Line «#2:«
+	Line «#3:«Blossoms are produced in spring simultaneously with the budding of the leaves and are produced on spurs and some long shoots. The 3 to 4ÿcm (1 to 1+1/2ÿin) flowers are white with a pink tinge that gradually fades, five petaled, with an inflorescence consisting of a cyme with 4-6 flowers. The central flower of the inflorescence is called the "king bloom"; it opens first and can develop a larger fruit.[5][6]
+	Line «#4:«
+	Line «#5:«The fruit is a pome that matures in late summer or autumn, and cultivars exist in a wide range of sizes. Commercial growers aim to produce an apple that is 7 to 8.5ÿcm (2+3/4 to 3+1/4ÿin) in diameter, due to market preference. Some consumers, especially those in Japan, prefer a larger apple, while apples below 5.5ÿcm (2+1/4ÿin) are generally used for making juice and have little fresh market value. The skin of ripe apples is generally red, yellow, green, pink, or russetted, though many bi- or tri-colored cultivars may be found.[7] The skin may also be wholly or partly russeted i.e. rough and brown. The skin is covered in a protective layer of epicuticular wax.[8] The exocarp (flesh) is generally pale yellowish-white,[7] though pink, yellow or green exocarps also occur.[9] 
+	Line «#6:«The original wild ancestor of Malus domestica was Malus sieversii, found growing wild in the mountains of Central Asia in southern Kazakhstan, Kyrgyzstan, Tajikistan, and northwestern China.[5][10] Cultivation of the species, most likely beginning on the forested flanks of the Tian Shan mountains, progressed over a long period of time and permitted secondary introgression of genes from other species into the open-pollinated seeds. Significant exchange with Malus sylvestris, the crabapple, resulted in current populations of apples being more related to crabapples than to the more morphologically similar progenitor Malus sieversii. In strains without recent admixture the contribution of the latter predominates.[11][12][13]
+	Line «#7:«Apples are diploid (though triploid cultivars are not uncommon), have 17 chromosomes and an estimated genome size of approximately 650 Mb. Several whole genome sequences have been made available, the first one in 2010 was based on the diploid cultivar 'Golden Delicious'.[14] However, this first whole genome sequence turned out to contain several errors[15] in part owing to the high degree of heterozygosity in diploid apples which, in combination with an ancient genome duplication, complicated the assembly. Recently, double- and trihaploid individuals have been sequenced, yielding whole genome sequences of higher quality.[16][17] The first whole genome assembly was estimated to contain around 57,000 genes,[14] though the more recent genome sequences support more moderate estimates between 42,000 and 44,700 protein-coding genes.[16][17] Among other things, the availability of whole genome sequences has provided evidence that the wild ancestor of the cultivated apple most likely is Malus sieversii. Re-sequencing of multiple accessions has supported this, while also suggesting extensive introgression from Malus sylvestris following domestication.[18]
+	»SectionTitle: «History
+	Line «#1:«Malus sieversii is recognized as a major progenitor species to the cultivated apple, and is morphologically similar. Due to the genetic variability in Central Asia, this region is generally considered the center of origin for apples.[19] The apple is thought to have been domesticated 4000-10000 years ago in the Tian Shan mountains, and then to have travelled along the Silk Road to Europe, with hybridization and introgression of wild crabapples from Siberia (M. baccata), the Caucasus (M. orientalis), and Europe (M. sylvestris). Only the M. sieversii trees growing on the western side of the Tian Shan mountains contributed genetically to the domesticated apple, not the isolated population on the eastern side.[18]
+	Line «#2:«
+	Line «#3:«Chinese soft apples, such as M. asiatica and M. prunifolia, have been cultivated as dessert apples for more than 2000 years in China. These are thought to be hybrids between M. baccata and M. sieversii in Kazakhstan.[18]
+	Line «#4:«
+	Line «#5:«Among the traits selected for by human growers are size, fruit acidity, color, firmness, and soluble sugar. Unusually for domesticated fruits, the wild M. sieversii origin is only slightly smaller than the modern domesticated apple.[18]
+	Line «#6:«
+	Line «#7:«At the Sammardenchia-Cueis site near Udine in Northeastern Italy, seeds from some form of apples have been found in material carbon dated to around 4000 BCE.[20] Genetic analysis has not yet been successfully used to determine whether such ancient apples were wild Malus sylvestris or Malus domesticus containing Malus sieversii ancestry.[21] It is generally also hard to distinguish in the archeological record between foraged wild apples and apple plantations.
+	Line «#8:«
+	Line «#9:«There is indirect evidence of apple cultivation in the third millennium BCE in the Middle East. There was substantial apple production in the European classical antiquity, and grafting was certainly known then.[21] Grafting is an essential part of modern domesticated apple production, to be able to propagate the best cultivars; it is unclear when apple tree grafting was invented.[21]
+	Line «#10:«
+	Line «#11:«Winter apples, picked in late autumn and stored just above freezing, have been an important food in Asia and Europe for millennia.[22] Of the many Old World plants that the Spanish introduced to Chilo‚ Archipelago in the 16th century, apple trees became particularly well adapted.[23] Apples were introduced to North America by colonists in the 17th century,[5] and the first apple orchard on the North American continent was planted in Boston by Reverend William Blaxton in 1625.[24] The only apples native to North America are crab apples, which were once called "common apples".[25] Apple cultivars brought as seed from Europe were spread along Native American trade routes, as well as being cultivated on colonial farms. An 1845 United States apples nursery catalogue sold 350 of the "best" cultivars, showing the proliferation of new North American cultivars by the early 19th century.[25] In the 20th century, irrigation projects in Eastern Washington began and allowed the development of the multibillion-dollar fruit industry, of which the apple is the leading product.[5]
+	Line «#12:«
+	Line «#13:«Until the 20th century, farmers stored apples in frostproof cellars during the winter for their own use or for sale. Improved transportation of fresh apples by train and road replaced the necessity for storage.[26][27] Controlled atmosphere facilities are used to keep apples fresh year-round. Controlled atmosphere facilities use high humidity, low oxygen, and controlled carbon dioxide levels to maintain fruit freshness. They were first used in the United States in the 1960s.[28] 
+	»SectionTitle: «Significance in european cultures and societies
+	Line «#1:«In Norse mythology, the goddess Idunn is portrayed in the Prose Edda (written in the 13th century by Snorri Sturluson) as providing apples to the gods that give them eternal youthfulness. The English scholar H. R. Ellis Davidson links apples to religious practices in Germanic paganism, from which Norse paganism developed. She points out that buckets of apples were found in the Oseberg ship burial site in Norway, that fruit and nuts (Idunn having been described as being transformed into a nut in Sk ldskaparm l) have been found in the early graves of the Germanic peoples in England and elsewhere on the continent of Europe, which may have had a symbolic meaning, and that nuts are still a recognized symbol of fertility in southwest England.[29]
+	Line «#2:«
+	Line «#3:«Davidson notes a connection between apples and the Vanir, a tribe of gods associated with fertility in Norse mythology, citing an instance of eleven "golden apples" being given to woo the beautiful Gerdr by Sk¡rnir, who was acting as messenger for the major Vanir god Freyr in stanzas 19 and 20 of Sk¡rnism l. Davidson also notes a further connection between fertility and apples in Norse mythology in chapter 2 of the V”lsunga saga: when the major goddess Frigg sends King Rerir an apple after he prays to Odin for a child, Frigg's messenger (in the guise of a crow) drops the apple in his lap as he sits atop a mound.[30] Rerir's wife's consumption of the apple results in a six-year pregnancy and the birth (by Caesarean section) of their son-the hero V”lsung.[31]
+	Line «#4:«
+	Line «#5:«Further, Davidson points out the "strange" phrase "Apples of Hel" used in an 11th-century poem by the skald Thorbiorn Br£narson. She states this may imply that the apple was thought of by Br£narson as the food of the dead. Further, Davidson notes that the potentially Germanic goddess Nehalennia is sometimes depicted with apples and that parallels exist in early Irish stories. Davidson asserts that while cultivation of the apple in Northern Europe extends back to at least the time of the Roman Empire and came to Europe from the Near East, the native varieties of apple trees growing in Northern Europe are small and bitter. Davidson concludes that in the figure of Idunn "we must have a dim reflection of an old symbol: that of the guardian goddess of the life-giving fruit of the other world."[29] 
+	Line «#6:«Apples appear in many religious traditions, often as a mystical or forbidden fruit. One of the problems identifying apples in religion, mythology and folktales is that the word "apple" was used as a generic term for all (foreign) fruit, other than berries, including nuts, as late as the 17th century.[32] For instance, in Greek mythology, the Greek hero Heracles, as a part of his Twelve Labours, was required to travel to the Garden of the Hesperides and pick the golden apples off the Tree of Life growing at its center.[33][34][35]
+	Line «#7:«
+	Line «#8:«The Greek goddess of discord, Eris, became disgruntled after she was excluded from the wedding of Peleus and Thetis.[36] In retaliation, she tossed a golden apple inscribed ?à???åç? (Kalliste, sometimes transliterated Kallisti, "For the most beautiful one"), into the wedding party. Three goddesses claimed the apple: Hera, Athena, and Aphrodite. Paris of Troy was appointed to select the recipient. After being bribed by both Hera and Athena, Aphrodite tempted him with the most beautiful woman in the world, Helen of Sparta. He awarded the apple to Aphrodite, thus indirectly causing the Trojan War.[37]
+	Line «#9:«
+	Line «#10:«The apple was thus considered, in ancient Greece, sacred to Aphrodite. To throw an apple at someone was to symbolically declare one's love; and similarly, to catch it was to symbolically show one's acceptance of that love. An epigram claiming authorship by Plato states:[38]
+	Line «#11:«
+	Line «#12:«    I throw the apple at you, and if you are willing to love me, take it and share your girlhood with me; but if your thoughts are what I pray they are not, even then take it, and consider how short-lived is beauty.
+	Line «#13:«    -?Plato, Epigram VII
+	Line «#14:«
+	Line «#15:«Atalanta, also of Greek mythology, raced all her suitors in an attempt to avoid marriage. She outran all but Hippomenes (also known as Melanion, a name possibly derived from melon, the Greek word for both "apple" and fruit in general),[34] who defeated her by cunning, not speed. Hippomenes knew that he could not win in a fair race, so he used three golden apples (gifts of Aphrodite, the goddess of love) to distract Atalanta. It took all three apples and all of his speed, but Hippomenes was finally successful, winning the race and Atalanta's hand.[33] 
+	Line «#16:«Though the forbidden fruit of Eden in the Book of Genesis is not identified, popular Christian tradition has held that it was an apple that Eve coaxed Adam to share with her.[39] The origin of the popular identification with a fruit unknown in the Middle East in biblical times is found in confusion between the Latin words malum (an apple) and malum (an evil), each of which is normally written malum.[40] The tree of the forbidden fruit is called "the tree of the knowledge of good and evil" in Genesis 2:17,[41] and the Latin for "good and evil" is bonum et malum.[42]
+	Line «#17:«
+	Line «#18:«Renaissance painters may also have been influenced by the story of the golden apples in the Garden of Hesperides. As a result, in the story of Adam and Eve, the apple became a symbol for knowledge, immortality, temptation, the fall of man into sin, and sin itself. The larynx in the human throat has been called the "Adam's apple" because of a notion that it was caused by the forbidden fruit remaining in the throat of Adam.[39] The apple as symbol of sexual seduction has been used to imply human sexuality, possibly in an ironic vein.[39] 
+	Line «#19:«The proverb, "An apple a day keeps the doctor away", addressing the supposed health benefits of the fruit, has been traced to 19th-century Wales, where the original phrase was "Eat an apple on going to bed, and you'll keep the doctor from earning his bread".[43] In the 19th century and early 20th, the phrase evolved to "an apple a day, no doctor to pay" and "an apple a day sends the doctor away"; the phrasing now commonly used was first recorded in 1922.[44]
+	»SectionTitle: «Cultivars
+	Line «#1:«There are more than 7,500 known cultivars (cultivated varieties) of apples.[45] Cultivars vary in their yield and the ultimate size of the tree, even when grown on the same rootstock.[46] Different cultivars are available for temperate and subtropical climates. The UK's National Fruit Collection, which is the responsibility of the Department of Environment, Food, and Rural Affairs, includes a collection of over 2,000 cultivars of apple tree in Kent.[47] The University of Reading, which is responsible for developing the UK national collection database, provides access to search the national collection. The University of Reading's work is part of the European Cooperative Programme for Plant Genetic Resources of which there are 38 countries participating in the Malus/Pyrus work group.[48]
+	Line «#2:«
+	Line «#3:«The UK's national fruit collection database contains much information on the characteristics and origin of many apples, including alternative names for what is essentially the same "genetic" apple cultivar. Most of these cultivars are bred for eating fresh (dessert apples), though some are cultivated specifically for cooking (cooking apples) or producing cider. Cider apples are typically too tart and astringent to eat fresh, but they give the beverage a rich flavor that dessert apples cannot.[49]
+	Line «#4:«
+	Line «#5:«Commercially popular apple cultivars are soft but crisp. Other desirable qualities in modern commercial apple breeding are a colorful skin, absence of russeting, ease of shipping, lengthy storage ability, high yields, disease resistance, common apple shape, and developed flavor.[46] Modern apples are generally sweeter than older cultivars, as popular tastes in apples have varied over time. Most North Americans and Europeans favor sweet, subacid apples, but tart apples have a strong minority following.[50] Extremely sweet apples with barely any acid flavor are popular in Asia,[50] especially the Indian subcontinent.[49]
+	Line «#6:«
+	Line «#7:«Old cultivars are often oddly shaped, russeted, and grow in a variety of textures and colors. Some find them to have better flavor than modern cultivars,[51] but they may have other problems that make them commercially unviable-low yield, disease susceptibility, poor tolerance for storage or transport, or just being the "wrong" size. A few old cultivars are still produced on a large scale, but many have been preserved by home gardeners and farmers that sell directly to local markets. Many unusual and locally important cultivars with their own unique taste and appearance exist; apple conservation campaigns have sprung up around the world to preserve such local cultivars from extinction. In the United Kingdom, old cultivars such as 'Cox's Orange Pippin' and 'Egremont Russet' are still commercially important even though by modern standards they are low yielding and susceptible to disease.[5] 
+	»SectionTitle: «Cultivation
+	Line «#1:«Many apples grow readily from seeds. However, more than with most perennial fruits, apples must be propagated asexually to obtain the sweetness and other desirable characteristics of the parent. This is because seedling apples are an example of "extreme heterozygotes", in that rather than inheriting genes from their parents to create a new apple with parental characteristics, they are instead significantly different from their parents, perhaps to compete with the many pests.[52] Triploid cultivars have an additional reproductive barrier in that three sets of chromosomes cannot be divided evenly during meiosis, yielding unequal segregation of the chromosomes (aneuploids). Even in the case when a triploid plant can produce a seed (apples are an example), it occurs infrequently, and seedlings rarely survive.[53]
+	Line «#2:«
+	Line «#3:«Because apples are not true breeders when planted as seeds, although cuttings can take root and breed true, and may live for a century, grafting is usually used. The rootstock used for the bottom of the graft can be selected to produce trees of a large variety of sizes, as well as changing the winter hardiness, insect and disease resistance, and soil preference of the resulting tree. Dwarf rootstocks can be used to produce very small trees (less than 3.0ÿm or 10ÿft high at maturity), which bear fruit many years earlier in their life cycle than full size trees, and are easier to harvest.[54] Dwarf rootstocks for apple trees can be traced as far back as 300 BCE, to the area of Persia and Asia Minor. Alexander the Great sent samples of dwarf apple trees to Aristotle's Lyceum. Dwarf rootstocks became common by the 15th century and later went through several cycles of popularity and decline throughout the world.[55] The majority of the rootstocks used today to control size in apples were developed in England in the early 1900s. The East Malling Research Station conducted extensive research into rootstocks, and today their rootstocks are given an "M" prefix to designate their origin. Rootstocks marked with an "MM" prefix are Malling-series cultivars later crossed with trees of 'Northern Spy' in Merton, England.[56]
+	Line «#4:«
+	Line «#5:«Most new apple cultivars originate as seedlings, which either arise by chance or are bred by deliberately crossing cultivars with promising characteristics.[57] The words "seedling", "pippin", and "kernel" in the name of an apple cultivar suggest that it originated as a seedling. Apples can also form bud sports (mutations on a single branch). Some bud sports turn out to be improved strains of the parent cultivar. Some differ sufficiently from the parent tree to be considered new cultivars.[58]
+	Line «#6:«
+	Line «#7:«Since the 1930s, the Excelsior Experiment Station at the University of Minnesota has introduced a steady progression of important apples that are widely grown, both commercially and by local orchardists, throughout Minnesota and Wisconsin. Its most important contributions have included 'Haralson' (which is the most widely cultivated apple in Minnesota), 'Wealthy', 'Honeygold', and 'Honeycrisp'.
+	Line «#8:«
+	Line «#9:«Apples have been acclimatized in Ecuador at very high altitudes, where they can often, with the needed factors, provide crops twice per year because of constant temperate conditions year-round.[59] 
+	Line «#10:«Apples are self-incompatible; they must cross-pollinate to develop fruit. During the flowering each season, apple growers often utilize pollinators to carry pollen. Honey bees are most commonly used. Orchard mason bees are also used as supplemental pollinators in commercial orchards. Bumblebee queens are sometimes present in orchards, but not usually in sufficient number to be significant pollinators.[58][60]
+	Line «#11:«
+	Line «#12:«There are four to seven pollination groups in apples, depending on climate:
+	Line «#13:«
+	Line «#14:«    Group A - Early flowering, 1 to 3 May in England ('Gravenstein', 'Red Astrachan')
+	Line «#15:«    Group B - 4 to 7 May ('Idared', 'McIntosh')
+	Line «#16:«    Group C - Mid-season flowering, 8 to 11 May ('Granny Smith', 'Cox's Orange Pippin')
+	Line «#17:«    Group D - Mid/late season flowering, 12 to 15 May ('Golden Delicious', 'Calville blanc d'hiver')
+	Line «#18:«    Group E - Late flowering, 16 to 18 May ('Braeburn', 'Reinette d'Orl‚ans')
+	Line «#19:«    Group F - 19 to 23 May ('Suntan')
+	Line «#20:«    Group H - 24 to 28 May ('Court-Pendu Gris' - also called Court-Pendu plat)
+	Line «#21:«
+	Line «#22:«One cultivar can be pollinated by a compatible cultivar from the same group or close (A with A, or A with B, but not A with C or D).[61]
+	Line «#23:«
+	Line «#24:«Cultivars are sometimes classified by the day of peak bloom in the average 30-day blossom period, with pollenizers selected from cultivars within a 6-day overlap period. 
+	Line «#25:«Cultivars vary in their yield and the ultimate size of the tree, even when grown on the same rootstock. Some cultivars, if left unpruned, grow very large-letting them bear more fruit, but making harvesting more difficult. Depending on tree density (number of trees planted per unit surface area), mature trees typically bear 40-200ÿkg (90-440ÿlb) of apples each year, though productivity can be close to zero in poor years. Apples are harvested using three-point ladders that are designed to fit amongst the branches. Trees grafted on dwarfing rootstocks bear about 10-80ÿkg (20-180ÿlb) of fruit per year.[58]
+	Line «#26:«
+	Line «#27:«Farms with apple orchards open them to the public so consumers can pick their own apples.[62]
+	Line «#28:«
+	Line «#29:«Crops ripen at different times of the year according to the cultivar. Cultivar that yield their crop in the summer include 'Gala', 'Golden Supreme', 'McIntosh', 'Transparent', 'Primate', 'Sweet Bough', and 'Duchess'; fall producers include 'Fuji', 'Jonagold', 'Golden Delicious', 'Red Delicious', 'Chenango', 'Gravenstein', 'Wealthy', 'McIntosh', 'Snow', and 'Blenheim'; winter producers include 'Winesap', 'Granny Smith', 'King', 'Wagener', 'Swayzie', 'Greening', and 'Tolman Sweet'.[25] 
+	Line «#30:«Commercially, apples can be stored for a few months in controlled atmosphere chambers to delay ethylene-induced ripening. Apples are commonly stored in chambers with higher concentrations of carbon dioxide and high air filtration. This prevents ethylene concentrations from rising to higher amounts and preventing ripening from occurring too quickly.
+	Line «#31:«
+	Line «#32:«For home storage, most cultivars of apple can be held for approximately two weeks when kept at the coolest part of the refrigerator (i.e. below 5ÿøC). Some can be stored up to a year without significant degradation.[dubious - discuss][63][verification needed] Some varieties of apples (e.g. 'Granny Smith' and 'Fuji') have more than three times the storage life of others.[64]
+	Line «#33:«
+	Line «#34:«Non-organic apples may be sprayed with a substance 1-methylcyclopropene blocking the apples' ethylene receptors, temporarily preventing them from ripening.[65] 
+	Line «#35:«Apple trees are susceptible to a number of fungal and bacterial diseases and insect pests. Many commercial orchards pursue a program of chemical sprays to maintain high fruit quality, tree health, and high yields. These prohibit the use of synthetic pesticides, though some older pesticides are allowed. Organic methods include, for instance, introducing its natural predator to reduce the population of a particular pest.
+	Line «#36:«
+	Line «#37:«A wide range of pests and diseases can affect the plant. Three of the more common diseases or pests are mildew, aphids, and apple scab.
+	Line «#38:«
+	Line «#39:«    Mildew is characterized by light grey powdery patches appearing on the leaves, shoots and flowers, normally in spring. The flowers turn a creamy yellow color and do not develop correctly. This can be treated similarly to Botrytis-eliminating the conditions that caused the disease and burning the infected plants are among recommended actions.[66]
+	Line «#40:«    Aphids are a small insect. Five species of aphids commonly attack apples: apple grain aphid, rosy apple aphid, apple aphid, spirea aphid, and the woolly apple aphid. The aphid species can be identified by color, time of year, and by differences in the cornicles (small paired projections from their rear).[66] Aphids feed on foliage using needle-like mouth parts to suck out plant juices. When present in high numbers, certain species reduce tree growth and vigor.[67]
+	Line «#41:«    Apple scab: Apple scab causes leaves to develop olive-brown spots with a velvety texture that later turn brown and become cork-like in texture. The disease also affects the fruit, which also develops similar brown spots with velvety or cork-like textures. Apple scab is spread through fungus growing in old apple leaves on the ground and spreads during warm spring weather to infect the new year's growth.[68]
+	Line «#42:«
+	Line «#43:«Among the most serious disease problems is a bacterial disease called fireblight, and two fungal diseases: Gymnosporangium rust and black spot.[67] Other pests that affect apple trees include Codling moths and apple maggots. Young apple trees are also prone to mammal pests like mice and deer, which feed on the soft bark of the trees, especially in winter.[68] The larvae of the apple clearwing moth (red-belted clearwing) burrow through the bark and into the phloem of apple trees, potentially causing significant damage.[69] 
+	»SectionTitle: «Production
+	Line «#1:«World production of apples in 2020 was 86 million tonnes, with China producing 47% of the total (table).[3] Secondary producers were the United States and Turkey.[3]
+	Line «#2:«China: 40.5 million tonnes
+	Line «#3:«US: 4.7 million tonnes
+	Line «#4:«Turkey: 4.3 million tonnes
+	Line «#5:«Poland: 3.6 million tonnes
+	Line «#6:«India: 2.7 million tonnes
+	Line «#7:«Italy: 2.5 million tonnes
+	»SectionTitle: «Nutrition
+	Line «#1:«A raw apple is 86% water and 14% carbohydrates, with negligible content of fat and protein (table). A reference serving of a raw apple with skin weighing 100 grams provides 52 calories and a moderate content of dietary fiber.[70] Otherwise, there is low content of micronutrients, with the Daily Values of all falling below 10%.[71]
+	Line «#2:«Energy: 218 kJ
+	Line «#3:«Carbohydrates: 13.81g
+	Line «#4:«Sugars: 10.39g
+	Line «#5:«Dietary Fiber: 2.4g
+	Line «#6:«Fat: 0.17g
+	Line «#7:«Protein: 0.26g
+	Line «#8:«Vitamin A: 3æg
+	Line «#9:«beta-Carotene: 27æg
+	Line «#10:«lutein zeaxanthin: 29æg
+	Line «#11:«Thiamine (B1): 0.017mg
+	Line «#12:«Riboflavin (B2): 0.026mg
+	Line «#13:«Niacin (B3): 0.091mg
+	Line «#14:«Pantothenic Acid (B5): 0.061mg
+	Line «#15:«B6: 0.041mg
+	Line «#16:«Folate (B9): 3æg
+	Line «#17:«Vitamin C: 4.6mg
+	Line «#18:«Vitamin E: 0.18mg
+	Line «#19:«Vitamin K: 2.2æg
+	Line «#20:«Calcium: 6mg
+	Line «#21:«Iron: 0.12mg
+	Line «#22:«Magnesium: 5mg
+	Line «#23:«Manganese: 0.035mg
+	Line «#24:«Phosphorus: 11mg
+	Line «#25:«Potassium: 107mg
+	Line «#26:«Sodium: 1mg
+	Line «#27:«Zinc: 0.04mg
+	Line «#28:«Water: 85.56g
+	»SectionTitle: «Uses
+	Line «#1:«All parts of the fruit, including the skin, except for the seeds, are suitable for human consumption. The core, from stem to bottom, containing the seeds, is usually not eaten and is discarded.
+	Line «#2:«
+	Line «#3:«Apples can be consumed in various ways: juice, raw in salads, baked in pies, cooked into sauces and spreads like apple butter, and other baked dishes.[72]
+	Line «#4:«
+	Line «#5:«Apples are sometimes used as an ingredient in savory foods, such as sausage and stuffing.[73]
+	Line «#6:«
+	Line «#7:«Several techniques are used to preserve apples and apple products. Apples can be canned, dried or frozen.[72] Canned or frozen apples are eventually baked into pies or other cooked dishes. Apple juice or cider is also bottled. Apple juice is often concentrated and frozen. 
+	Line «#8:«Apples are often eaten raw. Cultivars bred for raw consumption are termed dessert or table apples.
+	Line «#9:«
+	Line «#10:«    In the UK, a toffee apple is a traditional confection made by coating an apple in hot toffee and allowing it to cool. Similar treats in the U.S. are candy apples (coated in a hard shell of crystallized sugar syrup) and caramel apples (coated with cooled caramel).
+	Line «#11:«    Apples are eaten with honey at the Jewish New Year of Rosh Hashanah to symbolize a sweet new year.[62]
+	Line «#12:«
+	Line «#13:«Apples are an important ingredient in many desserts, such as apple pie, apple crumble, apple crisp and apple cake. When cooked, some apple cultivars easily form a puree known as apple sauce. Apples are also made into apple butter and apple jelly. They are often baked or stewed and are also (cooked) in some meat dishes. Dried apples can be eaten or reconstituted (soaked in water, alcohol or some other liquid).
+	Line «#14:«
+	Line «#15:«Apples are milled or pressed to produce apple juice, which may be drunk unfiltered (called apple cider in North America), or filtered. Filtered juice is often concentrated and frozen, then reconstituted later and consumed. Apple juice can be fermented to make cider (called hard cider in North America), ciderkin, and vinegar. Through distillation, various alcoholic beverages can be produced, such as applejack, Calvados, and apfelwein.[74] 
+	Line «#16:«Organic apples are commonly produced in the United States.[75] Due to infestations by key insects and diseases, organic production is difficult in Europe.[76] The use of pesticides containing chemicals, such as sulfur, copper, microorganisms, viruses, clay powders, or plant extracts (pyrethrum, neem) has been approved by the EU Organic Standing Committee to improve organic yield and quality.[76] A light coating of kaolin, which forms a physical barrier to some pests, also may help prevent apple sun scalding.[58] 
+	Line «#17:«Apple skins and seeds contain various phytochemicals, particularly polyphenols which are under preliminary research for their potential health effects.[77]
+	Line «#18:«The enzyme polyphenol oxidase causes browning in sliced or bruised apples, by catalyzing the oxidation of phenolic compounds to o-quinones, a browning factor.[78] Browning reduces apple taste, color, and food value. Arctic apples, a non-browning group of apples introduced to the United States market in 2019, have been genetically modified to silence the expression of polyphenol oxidase, thereby delaying a browning effect and improving apple eating quality.[79][80] The US Food and Drug Administration in 2015, and Canadian Food Inspection Agency in 2017, determined that Arctic apples are as safe and nutritious as conventional apples.[81][82]
+	Line «#19:«Apple seed oil is obtained by pressing apple seeds for manufacturing cosmetics.[83] 
+	Line «#20:«Preliminary research is investigating whether apple consumption may affect the risk of some types of cancer.[77][84]
+	Line «#21:«One form of apple allergy, often found in northern Europe, is called birch-apple syndrome and is found in people who are also allergic to birch pollen.[85] Allergic reactions are triggered by a protein in apples that is similar to birch pollen, and people affected by this protein can also develop allergies to other fruits, nuts, and vegetables. Reactions, which entail oral allergy syndrome (OAS), generally involve itching and inflammation of the mouth and throat,[85] but in rare cases can also include life-threatening anaphylaxis.[86] This reaction only occurs when raw fruit is consumed-the allergen is neutralized in the cooking process. The variety of apple, maturity and storage conditions can change the amount of allergen present in individual fruits. Long storage times can increase the amount of proteins that cause birch-apple syndrome.[85]
+	Line «#22:«
+	Line «#23:«In other areas, such as the Mediterranean, some individuals have adverse reactions to apples because of their similarity to peaches.[85] This form of apple allergy also includes OAS, but often has more severe symptoms, such as vomiting, abdominal pain and urticaria, and can be life-threatening. Individuals with this form of allergy can also develop reactions to other fruits and nuts. Cooking does not break down the protein causing this particular reaction, so affected individuals cannot eat raw or cooked apples. Freshly harvested, over-ripe fruits tend to have the highest levels of the protein that causes this reaction.[85]
+	Line «#24:«
+	Line «#25:«Breeding efforts have yet to produce a hypoallergenic fruit suitable for either of the two forms of apple allergy.[85] 
+	Line «#26:«Apple seeds contain small amounts of amygdalin, a sugar and cyanide compound known as a cyanogenic glycoside. Ingesting small amounts of apple seeds causes no ill effects, but consumption of extremely large doses can cause adverse reactions. It may take several hours before the poison takes effect, as cyanogenic glycosides must be hydrolyzed before the cyanide ion is released.[87] The United States National Library of Medicine's Hazardous Substances Data Bank records no cases of amygdalin poisoning from consuming apple seeds.[88]
+}
+{
+	»ArticleTitle: «C++
+	»Code 1: «K
+	»Code 2: «K
+	»SectionTitle: «Summary
+	Line «#1:«C++ (pronounced "C plus plus") is a high-level general-purpose programming language created by Danish computer scientist Bjarne Stroustrup as an extension of the C programming language, or "C with Classes". The language has expanded significantly over time, and modern C++ now has object-oriented, generic, and functional features in addition to facilities for low-level memory manipulation. It is almost always implemented as a compiled language, and many vendors provide C++ compilers, including the Free Software Foundation, LLVM, Microsoft, Intel, Embarcadero, Oracle, and IBM, so it is available on many platforms.
+	Line «#2:«C++ was designed with systems programming and embedded, resource-constrained software and large systems in mind, with performance, efficiency, and flexibility of use as its design highlights. C++ has also been found useful in many other contexts, with key strengths being software infrastructure and resource-constrained applications, including desktop applications, video games, servers, and performance-critical applications.
+	Line «#3:«C++ is standardized by the International Organization for Standardization (ISO), with the latest version ratified and published by ISO in December 2020 as ISO/IEC 14882:2020 (informally known as C++20). The C++ programming language was initially standardized in 1998 as ISO/IEC 14882:1998, which was then amended by the C++03, C++11, C++14, and C++17 standards. The current C++20 standard supersedes these with new features and an enlarged standard library. Before the initial standardization in 1998, C++ was developed by Stroustrup at Bell Labs since 1979 as an extension of the C language; he wanted an efficient and flexible language similar to C that also provided high-level features for program organization. Since 2012, C++ has been on a three-year release schedule with C++23 as the next planned standard.
+	»SectionTitle: «Basic info
+	Line «#1:«
+	Line «#2:«Family: C
+	Line «#3:«Designed by: Bjarne Stroustrup
+	Line «#4:«Developer: ISO/IEC JTC 1/ SC 22 / WG 21
+	Line «#5:«First appeared: 1985
+	Line «#6:«Stable Release: C++20
+	Line «#7:«Preview Release: C++23
+	Line «#8:«Typing Discipline: Static, nominative, partially inferred
+	Line «#9:«OS: Cross-platform
+	Line «#10:«
+	»SectionTitle: «Etymology
+	Line «#1:«According to Stroustrup, "the name signifies the evolutionary nature of the changes from C". This name is credited to Rick Mascitti (mid-1983) and was first used in December 1983. When Mascitti was questioned informally in 1992 about the naming, he indicated that it was given in a tongue-in-cheek spirit. The name comes from C's ++ operator and a common naming convention of using "+" to indicate an enhanced computer program.
+	Line «#2:«During C++'s development period, the language had been reffered to as "new C" and "C with Classes" before acquiring its final name,
+}
+{
+	»ArticleTitle: «Cattle
+	»Code 1: «KTL
+	»Code 2: «KTL
+	»SectionTitle: «Image
+	Line «#1:«
+	Line «#2:«  _  _   /'/    )\,/,/(_   \ \
+	Line «#3:«   `//-.|  (  ,\\)\//\)\/_  ) |
+	Line «#4:«   //___\   `\\\/\\/\/\\///'  /
+	Line «#5:«,-"~`-._ `"--'_   `"""`  _ \`'"~-,_
+	Line «#6:«\       `-.  '_`.      .'_` \ ,-"~`/
+	Line «#7:« `.__.-'`/   (-\        /-) |-.__,'
+	Line «#8:«   ||   |     \O)  /^\ (O/  |
+	Line «#9:«   `\\  |         /   `\    /
+	Line «#10:«
+	Line «#11:«
+	Line «#12:«
+	Line «#13:«
+	Line «#14:«
+	Line «#15:«
+	Line «#16:«
+	Line «#17:«
+	»SectionTitle: «Basic info
+	Line «#1:«
+	Line «#2:«Kingdom: Animalia
+	Line «#3:«Phylum: Chordata
+	Line «#4:«Class: Mammalia
+	Line «#5:«Order: Artiodactyla
+	Line «#6:«Family: Bovidae
+	Line «#7:«Subfamily: Bovinae
+	Line «#8:«Genus: Bos
+	Line «#9:«Species: Taurus
+	Line «#10:«
+	»SectionTitle: «Summary
+	Line «#1:«Cattle (Bos taurus) are large, domesticated, cloven-hooved, herbivores. They are a prominent modern member of the subfamily Bovinae and the most widespread species of the genus Bos. Adult females are referred to as cows and adult males are referred to as bulls.
+	Line «#2:«Cattle are commonly raised as livestock for meat (beef or veal, see beef cattle), for milk (see dairy cattle), and for hides, which are used to make leather. They are used as riding animals and draft animals (oxen or bullocks, which pull carts, plows and other implements). Another product of cattle is their dung, which can be used to create manure or fuel. In some regions, such as parts of India, cattle have significant religious significance. Cattle, mostly small breeds such as the Miniature Zebu, are also kept as pets.
+	Line «#3:«Different types of cattle are common to different geographic areas. Taurine cattle are found primarily in Europe and temperate areas of Asia, the Americas, and Australia. Zebus (also called indicine cattle) are found primarily in India and tropical areas of Asia, America, and Australia. Sanga cattle are found primarily in sub-Saharan Africa. These types (which are sometimes classified as separate species or subspecies) are further divided into over 1,000 recognized breeds.
+	Line «#4:«Around 10,500 years ago, taurine cattle were domesticated from as few as 80 wild aurochs progenitors in central Anatolia, the Levant and Western Iran.[1] A separate domestication event occurred in the Indian subcontinent, which gave rise to zebu. According to the Food and Agriculture Organization (FAO), there are approximately 1.5 billion cattle in the world as of 2018.[2] Cattle are the main source of greenhouse gas emissions from livestock, and are responsible for around 10% of global greenhouse gas emissions.[3][4] In 2009, cattle became one of the first livestock animals to have a fully mapped genome.[5]
+	»SectionTitle: «Taxonomy
+	Line «#1:«Cattle were originally identified as three separate species: Bos taurus, the European or "taurine" cattle (including similar types from Africa and Asia); Bos indicus, the Indicine or "zebu"; and the extinct Bos primigenius, the aurochs. The aurochs is ancestral to both zebu and taurine cattle.[6] They were later reclassified as one species, Bos taurus, with the aurochs, zebu, and taurine cattle as subspecies.[7] However, this taxonomy is contentious and some sources prefer the separate species classification, such as the American Society of Mammalogists' Mammal Diversity Database.[8][9]
+	Line «#2:«Complicating the matter is the ability of cattle to interbreed with other closely related species. Hybrid individuals and even breeds exist, not only between taurine cattle and zebu (such as the sanga cattle (Bos taurus africanus x Bos indicus), but also between one or both of these and some other members of the genus Bosÿ- yaks (the dzo or yattle[10]), banteng, and gaur. Hybrids such as the beefalo breed can even occur between taurine cattle and either species of bison, leading some authors to consider them part of the genus Bos, as well.[11] The hybrid origin of some types may not be obvious - for example, genetic testing of the Dwarf Lulu breed, the only taurine-type cattle in Nepal, found them to be a mix of taurine cattle, zebu, and yak.[12] However, cattle cannot be successfully hybridized with more distantly related bovines such as water buffalo or African buffalo.
+	Line «#3:«The aurochs originally ranged throughout Europe, North Africa, and much of Asia. In historical times, its range became restricted to Europe, and the last known individual died in Mazovia, Poland, in about 1627.[13] Breeders have attempted to recreate cattle of similar appearance to aurochs by crossing traditional types of domesticated cattle, creating the Heck cattle breed.
+	Line «#4:«The only pure African taurine breeds (Bos taurus africanus) remaining are the N'Dama, Kuri and some varieties of the West African Shorthorn.[14]
+	»SectionTitle: «Etymology
+	Line «#1:«Cattle did not originate as the term for bovine animals. It was borrowed from Anglo-Norman catel, itself from medieval Latin capitale 'principal sum of money, capital', itself derived in turn from Latin caput 'head'. Cattle originally meant movable personal property, especially livestock of any kind, as opposed to real property (the land, which also included wild or small free-roaming animals such as chickens-they were sold as part of the land).[15][16] The word is a variant of chattel (a unit of personal property) and closely related to capital in the economic sense.[17][18][16] The term replaced earlier Old English feoh 'cattle, property', which survives today as fee (cf. German: Vieh, Dutch: vee, Gothic: faihu).
+	Line «#2:«The word cow came via Anglo-Saxon cu (plural c?), from Common Indo-European g?ous (genitive g?ow‚s) 'a bovine animal', cf. Persian: gƒv, Sanskrit: go-, Welsh: buwch.[19] The plural c? became ki or kie in Middle English, and an additional plural ending was often added, giving kine, kien, but also kies, kuin and others. This is the origin of the now archaic English plural, kine. The Scots language singular is coo or cou, and the plural is kye.
+	Line «#3:«In older English sources such as the King James Version of the Bible, cattle refers to livestock, as opposed to deer which refers to wildlife. Wild cattle may refer to feral cattle or to undomesticated species of the genus Bos. Today, when used without any other qualifier, the modern meaning of cattle is usually restricted to domesticated bovines.[16]
+	»SectionTitle: «Cognition
+	Line «#1:«In laboratory studies, young cattle are able to memorize the locations of several food sources and retain this memory for at least 8ÿhours, although this declined after 12ÿhours.[53] Fifteen-month-old heifers learn more quickly than adult cows which have had either one or two calvings, but their longer-term memory is less stable.[54] Mature cattle perform well in spatial learning tasks and have a good long-term memory in these tests. Cattle tested in a radial arm maze are able to remember the locations of high-quality food for at least 30 days. Although they initially learn to avoid low-quality food, this memory diminishes over the same duration.[55] Under less artificial testing conditions, young cattle showed they were able to remember the location of feed for at least 48 days.[56] Cattle can make an association between a visual stimulus and food within 1 day-memory of this association can be retained for 1 year, despite a slight decay.[57]
+	Line «#2:«Calves are capable of discrimination learning[58] and adult cattle compare favourably with small mammals in their learning ability in the Closed-field Test.[59]
+	Line «#3:«They are also able to discriminate between familiar individuals, and among humans. Cattle can tell the difference between familiar and unfamiliar animals of the same species (conspecifics). Studies show they behave less aggressively toward familiar individuals when they are forming a new group.[60] Calves can also discriminate between humans based on previous experience, as shown by approaching those who handled them positively and avoiding those who handled them aversively.[61] Although cattle can discriminate between humans by their faces alone, they also use other cues such as the color of clothes when these are available.[62]
+	Line «#4:«In audio play-back studies, calves prefer their own mother's vocalizations compared to the vocalizations of an unfamiliar mother.[63]
+	Line «#5:«In laboratory studies using images, cattle can discriminate between images of the heads of cattle and other animal species.[64] They are also able to distinguish between familiar and unfamiliar conspecifics. Furthermore, they are able to categorize images as familiar and unfamiliar individuals.[60]
+	Line «#6:«When mixed with other individuals, cloned calves from the same donor form subgroups, indicating that kin discrimination occurs and may be a basis of grouping behaviour. It has also been shown using images of cattle that both artificially inseminated and cloned calves have similar cognitive capacities of kin and non-kin discrimination.[65]
+	Line «#7:«Cattle can recognize familiar individuals. Visual individual recognition is a more complex mental process than visual discrimination. It requires the recollection of the learned idiosyncratic identity of an individual that has been previously encountered and the formation of a mental representation.[66] By using two-dimensional images of the heads of one cow (face, profiles, 3/4 views), all the tested heifers showed individual recognition of familiar and unfamiliar individuals from their own breed. Furthermore, almost all the heifers recognized unknown individuals from different breeds, although this was achieved with greater difficulty. Individual recognition was most difficult when the visual features of the breed being tested were quite different from the breed in the image, for example, the breed being tested had no spots whereas the image was of a spotted breed.[67]
+	Line «#8:«Cattle use visual/brain lateralisation in their visual scanning of novel and familiar stimuli.[68] Domestic cattle prefer to view novel stimuli with the left eye, i.e. using the right brain hemisphere (similar to horses, Australian magpies, chicks, toads and fish) but use the right eye, i.e. using the left hemisphere, for viewing familiar stimuli.[69]
+	»SectionTitle: «Genetics
+	Line «#1:«On 24 April 2009, edition of the journal Science, a team of researchers led by the National Institutes of Health and the US Department of Agriculture reported having mapped the bovine genome.[107] The scientists found cattle have about 22,000 genes, and 80% of their genes are shared with humans, and they share about 1000 genes with dogs and rodents, but are not found in humans[clarification needed]. Using this bovine "HapMap", researchers can track the differences between the breeds that affect the quality of meat and milk yields.[108]
+	Line «#2:«Behavioral traits of cattle can be as heritable as some production traits, and often, the two can be related.[109] The heritability of fear varies markedly in cattle from low (0.1) to high (0.53); such high variation is also found in pigs and sheep, probably due to differences in the methods used.[110] The heritability of temperament (response to isolation during handling) has been calculated as 0.36 and 0.46 for habituation to handling.[111] Rangeland assessments show that the heritability of aggressiveness in cattle is around 0.36.[112]
+	Line «#3:«Quantitative trait loci (QTLs) have been found for a range of production and behavioral characteristics for both dairy and beef cattle.[113] 
+	»SectionTitle: «Feral cattle
+	Line «#1:«Feral cattle are defined as being 'cattle that are not domesticated or cultivated'.[141] Populations of feral cattle are known to come from and exist in: Australia, United States of America,[142] Colombia, Argentina, Spain, France and many islands, including New Guinea, Hawaii, Galapagos, Juan Fern ndez Islands, Hispaniola (Dominican Republic and Haiti), Tristan da Cunha and Ile Amsterdam,[7] two islands of Kuchinoshima[143] and Kazura Island next to Naru Island in Japan.[144][145] Chillingham cattle is sometimes regarded as a feral breed.[146] Aleutian wild cattles can be found on Aleutian Islands.[147] The "Kinmen cattle" which are dominantly found on Kinmen Island, Taiwan is mostly domesticated while smaller portion of the population is believed to live in the wild due to accidental releases.[148] 
+	Line «#2:«Other notable examples include cattle in the vicinity of Hong Kong (in the Shing Mun Country Park,[149] among Sai Kung District[150] and Lantau Island[151] and on Grass Island[152]), and semi-feral animals in Yangmingshan, Taiwan.[153]
+	»SectionTitle: «Domestication and husbandry
+	Line «#1:«Cattle occupy a unique role in human history, having been domesticated since at least the early neolithic age.
+	Line «#2:«Archaeozoological and genetic data indicate that cattle were first domesticated from wild aurochs (Bos primigenius) approximately 10,500 years ago. There were two major areas of domestication: one in the Near East (specifically central Anatolia, the Levant and Western Iran), giving rise to the taurine line, and a second in the area that is now Pakistan, resulting in the indicine line.[114] Modern mitochondrial DNA variation indicates the taurine line may have arisen from as few as 80 aurochs tamed in the upper reaches of Mesopotamia near the villages of €ay”n Tepesi in what is now southeastern Turkey and Dja'de el-Mughara in what is now northern Syria.[1]
+	Line «#3:«Although European cattle are largely descended from the taurine lineage, gene flow from African cattle (partially of indicine origin) contributed substantial genomic components to both southern European cattle breeds and their New World descendants.[114] A study on 134 breeds showed that modern taurine cattle originated from Africa, Asia, North and South America, Australia, and Europe.[115] Some researchers have suggested that African taurine cattle are derived from a third independent domestication from North African aurochsen.[114]
+	Line «#4:«As early as 9000 BC both grain and cattle were used as money or as barter (the first grain remains found, considered to be evidence of pre-agricultural practice date to 17,000 BC).[116][117][118] Some evidence also exists to suggest that other animals, such as camels and goats, may have been used as currency in some parts of the world.[119] One of the advantages of using cattle as currency is that it allows the seller to set a fixed price. It even created the standard pricing. For example, two chickens were traded for one cow as cows were deemed to be more valuable than chickens.[117]
+	Line «#5:«Cattle are often raised by allowing herds to graze on the grasses of large tracts of rangeland. Raising cattle in this manner allows the use of land that might be unsuitable for growing crops. The most common interactions with cattle involve daily feeding, cleaning and milking. Many routine husbandry practices involve ear tagging, dehorning, loading, medical operations, artificial insemination, vaccinations and hoof care, as well as training for agricultural shows and preparations. Also, some cultural differences occur in working with cattle; the cattle husbandry of Fulani men rests on behavioural techniques, whereas in Europe, cattle are controlled primarily by physical means, such as fences.[120] Breeders use cattle husbandry to reduce M. bovis infection susceptibility by selective breeding and maintaining herd health to avoid concurrent disease.[121]
+	Line «#6:«Cattle are farmed for beef, veal, dairy, and leather. They are less commonly used for conservation grazing, or to maintain grassland for wildlife, such as in Epping Forest, England. They are often used in some of the most wild places for livestock. Depending on the breed, cattle can survive on hill grazing, heaths, marshes, moors and semidesert. Modern cattle are more commercial than older breeds and, having become more specialized, are less versatile. For this reason, many smaller farmers still favor old breeds, such as the Jersey dairy breed. In Portugal, Spain, southern France and some Latin American countries, bulls are used in the activity of bullfighting; In many other countries bullfighting is illegal. Other activities such as bull riding are seen as part of a rodeo, especially in North America. Bull-leaping, a central ritual in Bronze Age Minoan culture (see Sacred Bull), still exists in southwestern France. In modern times, cattle are also entered into agricultural competitions. These competitions can involve live cattle or cattle carcases in hoof and hook events.
+	Line «#7:«In terms of food intake by humans, consumption of cattle is less efficient than of grain or vegetables with regard to land use, and hence cattle grazing consumes more area than such other agricultural production when raised on grains.[122] Nonetheless, cattle and other forms of domesticated animals can sometimes help to use plant resources in areas not easily amenable to other forms of agriculture.
+	Line «#8:«Bulls are sometimes used as guard animals.[123][124] In occasional cases, cattle are kept as pets, and pet cows often have sweet temperaments, enjoying being petted and "kissing" (licking) their owners. But there are costs to keeping them as pets that limit how many people can practically do so; not everyone has space or facilities for a large-animal pet, and some amount of resources are needed to keep one humanely (such as pasture, hay, feed, water, and large-animal veterinary care). In addition, because livestock animals are gregarious, they need at least one companion to avoid being stressed or lonely, so keeping bovine, caprine, or ovine pets requires more than one animal. Most pet cows live on farms that have other livestock anyway, as the marginal cost of one or two more animals is then not very large. Farmers have traditionally often been averse to making pets out of livestock, on the principle that each animal must pay its way somehow if the farm is to survive financially, and also because there are sufficient opportunities for moments of petting and animal appreciation among the herd anyway, even when none of them are pets per se.
+	Line «#9:«The average sleep time of a domestic cow is about 4 hours a day.[125] Cattle do have a stay apparatus,[126] but do not sleep standing up;[127] they lie down to sleep deeply.[128] In spite of the urban legend, cows cannot be tipped over by people pushing on them.[129]
+	»SectionTitle: «Population
+	Line «#1:«
+	Line «#2:«
+	Line «#3:«As per FAS/USDA 2021 data, India had the largest cattle inventory in the world in 2021 followed by Brazil and China[246]
+	Line «#4:«India's cattle's inventory was reported at 305.5 million head in 2021, accounting for roughly 30% of the world's inventory. India, Brazil and China accounted for roughly 65% of the world's cattle inventory in 2021.
+	Line «#5:«It has been estimated that out of all animal species on Earth, Bos taurus has the largest biomass at roughly 400 million tonnes, followed closely by Euphausia superba (Antarctic krill) at 379 million tonnes, and Homo sapiens (humans) at 373 million tonnes.[247]
+	Line «#6:«Region | 2009 | 2013 | 2016 | 2018 | 2021
+	Line «#7:«India 	195,815,000 	194,655,285 	185,987,136 	184,464,035 	305,500,000
+	Line «#8:«Brazil 	205,308,000 	186,646,205 	218,225,177 	213,523,056 	252,700,000 
+	Line «#9:«United States 	94,721,000 	96,956,461 	91,918,000 	94,298,000 	93,595,000
+	Line «#10:«
+	Line «#11:«
+	Line «#12:«
+	Line «#13:«
+	Line «#14:«
+	Line «#15:«
+	Line «#16:«
+	Line «#17:«
+	Line «#18:«
+	Line «#19:«
+	Line «#20:«
+	Line «#21:«
+}
+{
+	»ArticleTitle: «List of places on land with elevations below sea level
+	»Code 1: «LSTFPLSSNLNT0LFXNSPLSLFL
+	»Code 2: «LSTFPLSSNLNTTLFXNSPLSLFL
+	»SectionTitle: «Summary
+	Line «#1:«This is a list of places on land below mean sea level.
+	Line «#2:«Places artificially created such as tunnels, mines, basements, and dug holes, or places under water, or existing temporarily as a result of ebbing of sea tide etc., are not included. Places where seawater and rainwater is pumped away are included. Fully natural places below sea level require a dry climate; otherwise, rain would exceed evaporation and fill the area.
+	Line «#3:«All figures are in meters below mean sea level (as locally defined), arranged by depth, lowest first: 
+	»SectionTitle: «Africa
+	Line «#1:«1 	Lake Assal 	Djibouti 	-153ÿm (-502ÿft) 	in Afar Depression: lowest land in Africa
+	Line «#2:«2 	Qattara Depression 	Egypt 	-133ÿm (-436ÿft)
+	Line «#3:«3 	Denakil Depression 	Ethiopia 	-125ÿm (-410ÿft) 	in Afar Depression
+	Line «#4:«4 	Sebkha Tah 	Western Sahara 	-55ÿm (-180ÿft) 	in the Laƒyoune-Boujdour-Sakia El Hamra region
+	Line «#5:«5 	Sabkhat Ghuzayyil 	Libya 	-47ÿm (-154ÿft)
+	Line «#6:«6 	Lake Moeris 	Egypt 	-43ÿm (-141ÿft)
+	Line «#7:«7 	Chott Melrhir 	Algeria 	-40ÿm (-131ÿft)
+	Line «#8:«8 	Shatt al Gharsah 	Tunisia 	-17ÿm (-56ÿft)
+	Line «#9:«9 	Sebkhet Te-n-Dghamcha 	Mauritania 	-5ÿm (-16ÿft)
+	»SectionTitle: «Antarctica
+	Line «#1:«1 	canyon under Denman Glacier 		bedrock is at -3,500ÿm (-11,500ÿft) 	This is the lowest natural point on land.[1][2]
+	Line «#2:«2 	Byrd Glacier 		-2,780ÿm (-9,121ÿft)
+	Line «#3:«3 	Deep Lake, Vestfold Hills 		-50ÿm (-164ÿft)
+	»SectionTitle: «Asia
+	Line «#1:«
+	Line «#2:«2 	Allenby Bridge 	Jordan - West Bank 	-381ÿm (-1,250ÿft) 	lowest fixed water crossing in the world 31ø52'27?N 35ø32'27?E in Jordan valley, Israel - West Bank - Jordan
+	Line «#3:«3 	Neot HaKikar 	Israel 	-345ÿm (-1,132ÿft) 	Israeli town just south of the Dead Sea. 30.9330972øN 35.3766972øE in Jordan valley, Israel - West Bank - Jordan
+	Line «#4:«4 	Jericho 	West Bank 	-258ÿm (-846ÿft) 	lowest city in the world 31.85øN 35.46øE in Jordan valley, Israel - West Bank - Jordan
+	Line «#5:«5 	Sea of Galilee 	Israel 	-214ÿm (-702ÿft) 	32.80øN 35.60øE Jordan valley, Israel - West Bank - Jordan
+	Line «#6:«6 	Tiberias 	Israel 	-207ÿm (-679ÿft) 	32.7966øN 35.535717øE Jordan valley, Israel - West Bank - Jordan
+	Line «#7:«7 	Turfan Depression 	China 	-154ÿm (-505ÿft)
+	Line «#8:«8 	Caspian Depression, Karagiye 	Kazakhstan 	-138ÿm (-453ÿft) 	Caspian Basin
+	Line «#9:«9 	Bet She'an 	Israel 	-122ÿm (-400ÿft) 	32.50øN 35.50øE (between Tiberias and Jericho) in Jordan valley, Israel - West Bank - Jordan
+	Line «#10:«
+	Line «#11:«
+	Line «#12:«
+	»SectionTitle: «Europe
+	Line «#1:«
+	Line «#2:«1= 	Baku 	Azerbaijan 	-28ÿm (-92ÿft) 	lowest lying national capital in the world, Caspian Depression
+	Line «#3:«3 	Atyrau Airport 	Kazakhstan 	-22ÿm (-72ÿft) 	lowest international airport, Caspian Depression
+	Line «#4:«4= 	Lammefjord 	Denmark 	-7ÿm (-23ÿft) 	
+	Line «#5:«4= 	Zuidplaspolder 	Netherlands 	-7ÿm (-23ÿft) 	Netherlands coastal provinces (-1 to -7ÿm) (-3 to -23ÿft)
+	Line «#6:«6 	Haarlemmermeer 	Netherlands 	-5ÿm (-16ÿft) 	Netherlands coastal provinces (-1 to -7ÿm) (-3 to -23ÿft)
+	Line «#7:«7= 	Amsterdam Schiphol Airport 	Netherlands 	-4ÿm (-13ÿft) 	Netherlands coastal provinces (-1 to -7ÿm) (-3 to -23ÿft)
+	Line «#8:«7= 	Wieringermeer 	Netherlands 	-4ÿm (-13ÿft) 	Netherlands coastal provinces (-1 to -7ÿm) (-3 to -23ÿft)
+	Line «#9:«7= 	Flevoland 	Netherlands 	-4ÿm (-13ÿft) 	Netherlands coastal provinces (-1 to -7ÿm) (-3 to -23ÿft)
+	Line «#10:«
+	Line «#11:«
+	Line «#12:«
+	Line «#13:«
+	Line «#14:«
+	Line «#15:«
+	Line «#16:«
+	Line «#17:«
+	Line «#18:«
+	»SectionTitle: «North america
+	Line «#1:«
+	Line «#2:«
+	Line «#3:«3 	Salton Sea Beach, California 	United States 	-67ÿm (-220ÿft) 	Salton Sink -66ÿm (-217ÿft) 
+	Line «#4:«4 	Desert Shores, California 	United States 	-61ÿm (-200ÿft) 	Salton Sink -66ÿm (-217ÿft)
+	Line «#5:«5 	Calipatria, California 	United States 	-56ÿm (-184ÿft) 	Salton Sink -66ÿm (-217ÿft)
+	Line «#6:«6 	Westmorland, California 	United States 	-48ÿm (-157ÿft) 	Salton Sink -66ÿm (-217ÿft)
+	Line «#7:«7 	Lake Enriquillo 	Dominican Republic 	-46ÿm (-151ÿft) 	lowest place on an island country.
+	Line «#8:«8 	Niland, California 	United States 	-43ÿm (-141ÿft) 	Salton Sink -66ÿm (-217ÿft)
+	Line «#9:«9 	Salton City, California 	United States 	-38ÿm (-125ÿft) 	Salton Sink, -66ÿm (-217ÿft)
+	Line «#10:«
+	Line «#11:«
+	Line «#12:«
+	Line «#13:«
+	Line «#14:«
+	Line «#15:«
+	Line «#16:«
+	Line «#17:«
+	Line «#18:«
+	Line «#19:«
+	Line «#20:«
+	»SectionTitle: «Oceania
+	Line «#1:«1 	Lake Eyre 	Australia 	-16ÿm (-52ÿft) 	lowest land in Australia
+	Line «#2:«2 	Lake Frome 	Australia 	-6ÿm (-20ÿft)
+	Line «#3:«3 	Taieri Plain 	New Zealand 	-2ÿm (-7ÿft) 	lowest land in New Zealand
+	»SectionTitle: «South america
+	Line «#1:«1 	Laguna del Carb¢n 	Argentina 	-105ÿm (-344ÿft) 	lowest land in the Americas
+	Line «#2:«2 	Bajo del Gualicho, R¡o Negro province 	Argentina 	-72ÿm (-236ÿft)
+	Line «#3:«3 	Salina Grande and Salina Chica, Vald‚s Peninsula, Chubut Province 	Argentina 	-42ÿm (-138ÿft)
+	Line «#4:«4 	Sechura Depression, Sechura Desert, Piura Region 	Peru 	-34ÿm (-112ÿft)
+	Line «#5:«5 	Georgetown, Guyana 	Guyana 	-2ÿm (-7ÿft)
+	»SectionTitle: «Historic and ice-covered areas
+	Line «#1:«Deeper and larger than any of the trenches in the list above is the Bentley Subglacial Trench in Antarctica, at a depth of 2,540ÿm (8,330ÿft). It is subglacial, covered permanently by the largest glacier in the world. Therefore, it is not included in any list on the page. If the ice melted it would be covered by sea.
+	Line «#2:«The biggest dry land area below sea level that has been known to exist during the geological past, as measured by continuous volume of atmospheric air below sea level, was the dry bed of the Mediterranean Sea of the late Miocene period during the Messinian salinity crisis. 
+}
+{
+	»ArticleTitle: «Lorem ipsum
+	»Code 1: «LRMPSM
+	»Code 2: «LRMPSM
+	»SectionTitle: «Test 1
+	Line «#1:«Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+	Line «#2:«Nam et ex pretium, imperdiet est et, ullamcorper turpis.
+	Line «#3:«Ut in molestie nulla. Morbi elementum euismod quam eu ultrices.
+	Line «#4:«Vivamus in mauris eget sem dignissim iaculis.
+	Line «#5:«Proin efficitur nunc sed metus venenatis ornare.
+	Line «#6:«Integer id molestie turpis, eu rhoncus dui.
+	Line «#7:«Maecenas lacus sem, pretium a nibh et, imperdiet scelerisque velit.
+	»SectionTitle: «2test
+	Line «#1:«Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Aliquam etiam erat velit scelerisque in. Eget lorem dolor sed viverra. Arcu vitae elementum curabitur vitae nunc sed velit. Venenatis urna cursus eget nunc scelerisque viverra. Habitant morbi tristique senectus et. Dui nunc mattis enim ut tellus elementum sagittis. Tincidunt lobortis feugiat vivamus at. Eu tincidunt tortor aliquam nulla facilisi cras fermentum. Justo eget magna fermentum iaculis eu non diam phasellus. Morbi tincidunt augue interdum velit. Neque sodales ut etiam sit amet. Consectetur purus ut faucibus pulvinar elementum integer enim neque.
+	Line «#2:«Lacus vel facilisis volutpat est velit egestas dui. Ridiculus mus mauris vitae ultricies leo integer. Elementum nibh tellus molestie nunc non blandit massa. Ac turpis egestas integer eget aliquet nibh praesent. Aliquam faucibus purus in massa tempor nec feugiat nisl pretium. Vitae justo eget magna fermentum iaculis eu. Aliquam faucibus purus in massa tempor. Cursus turpis massa tincidunt dui ut ornare lectus sit amet. A erat nam at lectus urna duis convallis. At in tellus integer feugiat scelerisque varius. In fermentum posuere urna nec tincidunt praesent semper. Urna et pharetra pharetra massa massa ultricies mi quis hendrerit. Nisl nunc mi ipsum faucibus. Est ultricies integer quis auctor.
+	Line «#3:«Egestas erat imperdiet sed euismod nisi porta lorem. Sed adipiscing diam donec adipiscing tristique risus nec feugiat. Odio ut enim blandit volutpat. Nunc mi ipsum faucibus vitae aliquet. Enim tortor at auctor urna nunc id cursus. Tempus urna et pharetra pharetra massa massa ultricies mi quis. Eleifend quam adipiscing vitae proin sagittis nisl. At in tellus integer feugiat. Arcu odio ut sem nulla pharetra diam sit amet nisl. Orci phasellus egestas tellus rutrum. Enim lobortis scelerisque fermentum dui. Diam maecenas sed enim ut sem viverra. Quis risus sed vulputate odio ut enim blandit volutpat. Libero enim sed faucibus turpis in eu. Nunc non blandit massa enim nec dui. In ornare quam viverra orci sagittis eu volutpat. Purus sit amet volutpat consequat mauris nunc congue. Arcu non odio euismod lacinia. Purus viverra accumsan in nisl nisi. Pretium fusce id velit ut.
+	Line «#4:«Dictum varius duis at consectetur lorem donec. Natoque penatibus et magnis dis parturient montes. Morbi blandit cursus risus at ultrices. Arcu odio ut sem nulla. Sem viverra aliquet eget sit amet tellus cras. Quis eleifend quam adipiscing vitae proin. Sit amet consectetur adipiscing elit ut aliquam purus sit amet. Diam quis enim lobortis scelerisque fermentum dui faucibus in. Dolor magna eget est lorem. In fermentum posuere urna nec tincidunt praesent semper feugiat. Nec ultrices dui sapien eget mi proin. Tristique et egestas quis ipsum. A diam sollicitudin tempor id eu nisl nunc mi. Dis parturient montes nascetur ridiculus. Enim sed faucibus turpis in eu mi bibendum neque egestas. Sed cras ornare arcu dui vivamus arcu. A scelerisque purus semper eget duis at tellus at. Maecenas ultricies mi eget mauris. Donec adipiscing tristique risus nec feugiat in fermentum. Nulla pharetra diam sit amet nisl suscipit adipiscing bibendum est.
+	Line «#5:«Tristique et egestas quis ipsum suspendisse. Quisque non tellus orci ac auctor. Lacus sed viverra tellus in hac. Tristique senectus et netus et malesuada fames ac turpis. Phasellus faucibus scelerisque eleifend donec pretium vulputate sapien. Eget egestas purus viverra accumsan in nisl nisi scelerisque eu. Nec feugiat nisl pretium fusce id velit. In pellentesque massa placerat duis ultricies lacus sed turpis tincidunt. Feugiat vivamus at augue eget arcu dictum varius duis at. Semper eget duis at tellus at urna condimentum mattis pellentesque. Viverra nibh cras pulvinar mattis nunc sed blandit. Dolor sed viverra ipsum nunc aliquet bibendum. Faucibus ornare suspendisse sed nisi lacus sed. Viverra orci sagittis eu volutpat odio facilisis mauris. Sit amet volutpat consequat mauris nunc congue nisi vitae. Aliquam eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis. Ante in nibh mauris cursus mattis molestie.
+	»SectionTitle: «Special characters
+	Line «#1:«" ' " ' " '''' ""'''"
+	Line «#2:«\|\\|//?>.<,;";:\{
+	Line «#3:«}}}]{]{[
+	Line «#4:«_--_++===+!
+	Line «#5:«@&#$%*%^&()@(~`-*+-/!`~~
+	»SectionTitle: «"neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
+	Line «#1:«Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ut nisl porta augue tempor mattis sit amet sed orci. Etiam sit amet bibendum quam. Sed quis rutrum libero, ut dapibus lectus. In hac habitasse platea dictumst. Etiam eleifend mi ac tortor feugiat hendrerit ac sed neque. Cras tempus aliquet massa sit amet aliquet. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Praesent ut eros in ante semper venenatis sit amet ut elit. Quisque et tellus vel ipsum bibendum volutpat. 
+	Line «#2:«Pellentesque placerat nulla lorem, at accumsan ante hendrerit ut. Phasellus hendrerit velit non nisl accumsan, eget viverra nisi porttitor. Duis finibus ante sit amet aliquam volutpat. Vivamus lobortis, quam sit amet interdum vestibulum, purus dolor tincidunt odio, quis pulvinar justo ex nec eros. Duis sollicitudin cursus leo, vel laoreet magna porta eu. Donec fringilla dui non enim tincidunt malesuada. Sed sem ligula, commodo a ex non, hendrerit pulvinar turpis. Praesent sollicitudin varius lacus, eget mattis lectus sagittis ac. Quisque neque nisi, consectetur vitae magna a, consectetur tempus sapien. Vivamus nunc ligula, laoreet quis consequat ut, dapibus vitae arcu. Donec et pulvinar justo. Quisque laoreet in arcu sed elementum. Vivamus sit amet viverra dui. Nam finibus rhoncus nulla, id tempus odio volutpat vel. Sed odio sapien, blandit ut urna non, sodales fermentum felis. Morbi ut lorem aliquam, facilisis justo sed, ultricies eros.
+	Line «#3:«Nullam quis nulla nisl. Morbi tempor tempus arcu. Curabitur mattis nibh velit, sed tristique leo ullamcorper id. Sed efficitur, dolor ac fringilla mattis, neque nunc vestibulum ipsum, non blandit sapien nisl vel nisl. Phasellus nec sodales ex, at posuere ante. Donec hendrerit ipsum ipsum. Duis fermentum, sem sit amet scelerisque condimentum, lectus arcu euismod dui, vitae pulvinar est ante sed nibh. Vivamus id arcu at urna malesuada finibus. In vitae pellentesque ipsum. Morbi nec tellus vitae nisl pharetra cursus vitae sit amet lacus. Mauris ornare urna ac lectus pretium sollicitudin. Nullam vitae porttitor ante, vitae dapibus ante. Vestibulum varius, nisl a pulvinar pharetra, nibh libero imperdiet urna, quis condimentum nisi magna nec ex.
+	Line «#4:«Sed nibh metus, vehicula et placerat at, laoreet at arcu. Interdum et malesuada fames ac ante ipsum primis in faucibus. Duis auctor non enim a elementum. Vivamus cursus venenatis lorem egestas vulputate. Cras vitae accumsan nisl. Maecenas posuere lorem id semper luctus. Nunc et mi odio. Etiam ac mi felis. Proin feugiat nibh suscipit purus convallis, vel condimentum velit ultricies. In nisl purus, pharetra eu molestie eget, pretium id est. Nulla facilisis ipsum nisi, tincidunt pretium neque pharetra sed.
+	Line «#5:«In at hendrerit lectus, sed pharetra tortor. Duis blandit, ex vel commodo tincidunt, sem eros finibus velit, a rutrum dui purus sit amet nisl. Sed auctor mollis purus, nec vehicula mauris fringilla a. Mauris tincidunt, turpis a pretium dignissim, justo metus rutrum nisi, rhoncus ultricies purus lorem et felis. Ut diam leo, pulvinar ut venenatis a, convallis vel augue. Fusce lectus orci, porta vel lorem non, malesuada vestibulum justo. Donec convallis ex ut imperdiet volutpat.
+}
+{
+	»ArticleTitle: «Seven years' war
+	»Code 1: «SFNRSR
+	»Code 2: «SFNRSR
+	»SectionTitle: «Basic info
+	Line «#1:«Side 2: France, Austria, Saxony, Hesse-Darmstadt, Russia, Spain, Sweden, Kalmykia, French East India Company, Mughal Empire, Bengal Subah, New Spain, Dutch East India Company, New France, French Canada, Wabanaki Confederacy, Abenaki, Mi'kmaq, Algonquin, Lenape, Ojibwe, Odawa, Shawnee, Mississauga, Potawatomi, Wyandot, Viceroyalty of Peru, French West Indies
+	Line «#2:«Location	
+	Line «#3:«Europe, North America, West Indies, South America, West Africa, India, Philippines
+	Line «#4:«Result: Anglo-Prussian coalition victory
+	Line «#5:«No territorial changes in Europe
+	Line «#6:«France and Spain return conquered colonial territory to Great Britain and Portugal
+	Line «#7:«France cedes its North American possessions east of the Mississippi River, Canada, the islands of St. Vincent, Tobago, Dominica, and Grenada, and the Northern Circars in India to Great Britain
+	Line «#8:«France cedes Louisiana and its North American territory west of the Mississippi River to Spain
+	Line «#9:«Spain cedes Florida to Great Britain
+	Line «#10:«
+	Line «#11:«
+	Line «#12:«
+	»SectionTitle: «Intro
+	Line «#1:«The Seven Years' War (1756-1763) was a global conflict that involved most of the European Great Powers, and was fought primarily in Europe, the Americas, and Asia-Pacific. Other concurrent conflicts include the French and Indian War (1754-1763), the Carnatic Wars and the Anglo-Spanish War (1762-1763). The opposing alliances were led by Great Britain and France respectively, both seeking to establish global pre-eminence at the expense of the other.[9] Along with Spain, France fought Britain both in Europe and overseas with land-based armies and naval forces, while Britain's ally Prussia sought territorial expansion in Europe and consolidation of its power. Long-standing colonial rivalries pitting Britain against France and Spain in North America and the West Indies were fought on a grand scale with consequential results. Prussia sought greater influence in the German states, while Austria wanted to regain Silesia, captured by Prussia in the previous war, and to contain Prussian influence.
+	Line «#2:«
+	Line «#3:«In a realignment of traditional alliances, known as the Diplomatic Revolution of 1756, Prussia became part of a coalition led by Britain, which also included long-time Prussian competitor Hanover, at the time in personal union with Britain. At the same time, Austria ended centuries of conflict between the Bourbon and Habsburg families by allying with France, along with Saxony, Sweden and Russia. Spain aligned formally with France in 1761, joining France in the Third Family Compact between the two Bourbon monarchies. Smaller German states either joined the Seven Years' War or supplied mercenaries to the parties involved in the conflict.
+	Line «#4:«
+	Line «#5:«Anglo-French conflicts broke out in their North American colonies in 1754, when British and French colonial militias and their respective Native American allies engaged in small skirmishes, and later full-scale colonial warfare. The colonial conflicts would become a theatre of the Seven Years' War when war was officially declared 2 years later, and it effectively ended France's presence as a land power on that continent. It was "the most important event to occur in eighteenth-century North America"[10] prior to the American Revolution. Spain entered the war on the French side in 1762, unsuccessfully attempting to invade Britain's ally Portugal in what became known as the Fantastic War. The alliance with France was a disaster for Spain, with the loss to Britain of two major ports, Havana in the West Indies and Manila in the Philippines, returned in the 1763 Treaty of Paris between France, Spain and Great Britain. In Europe, the large-scale conflict that drew in most of the European powers was centred on the desire of Austria (long the political centre of the Holy Roman Empire of the German nation) to recover Silesia from Prussia. The Treaty of Hubertusburg ended the war between Saxony, Austria and Prussia, in 1763. Britain began its rise as the world's predominant colonial and naval power. France's supremacy in Europe was halted until after the French Revolution and the emergence of Napoleon Bonaparte. Prussia confirmed its status as a great power, challenging Austria for dominance within the German states, thus altering the European balance of power. 
+	»SectionTitle: «Summary
+	Line «#1:«The Seven Years' War was perhaps the first global war, taking place almost 160 years before World War I, known as the Great War[citation needed] before the outbreak of World War II, and globally influenced many later major events. Winston Churchill described the conflict as the "first world war". The war restructured not only the European political order, but also affected events all around the world, paving the way for the beginning of later British world supremacy in the 19th century, the rise of Prussia in Germany (eventually replacing Austria as the leading German state), the beginning of tensions in British North America, as well as a clear sign of France's revolutionary turmoil. It was characterized in Europe by sieges and the arson of towns as well as open battles with heavy losses. 
+	Line «#2:«
+	Line «#3:«Prussia, a rising power, struggled with Austria for dominance within and outside the Holy Roman Empire in central Europe. In 1756, the four greatest powers "switched partners" so that Great Britain and Prussia were allied against France and Austria. Realizing that war was imminent, Prussia pre-emptively struck Saxony and quickly overran it. The result caused uproar across Europe. Because of Austria's alliance with France to recapture Silesia, which had been lost in the War of the Austrian Succession, Prussia formed an alliance with Britain. Reluctantly, by following the Imperial diet of the Holy Roman Empire, which declared war on Prussia on 17 January 1757, most of the states of the empire joined Austria's cause. The Anglo-Prussian alliance was joined by a few smaller German states within the empire (most notably the Electorate of Hanover but also Brunswick and Hesse-Kassel). Sweden, seeking to regain Pomerania (most of which had been lost to Prussia in previous wars) joined the coalition, seeing its chance when all the major continental powers of Europe opposed Prussia. Spain, bound by the Pacte de Famille, intervened on behalf of France and together they launched an unsuccessful invasion of Portugal in 1762. The Russian Empire was originally aligned with Austria, fearing Prussia's ambition on the Polish-Lithuanian Commonwealth, but switched sides upon the succession of Tsar Peter III in 1762.
+	Line «#4:«
+	Line «#5:«Many middle and small powers in Europe, as in the previous wars, tried steering away from the escalating conflict, even though they had interests in the conflict or with the belligerents. Denmark-Norway, for instance, was close to being dragged into the war on France's side when Peter III became Russian emperor and switched sides; Dano-Norwegian and Russian armies were close to ending up in battle, but the Russian emperor was deposed before war formally broke out. The Dutch Republic, a long-time British ally, kept its neutrality intact, not seeing why it should fight a costly war for British interests, and even tried to prevent Britain's domination in India. The taxation needed for war caused the Russian people considerable hardship, being added to the taxation of salt and alcohol begun by Empress Elizabeth in 1759 to complete her addition to the Winter Palace. Like Sweden, Russia concluded a separate peace with Prussia.
+	Line «#6:«
+	Line «#7:«The war ended with two separate treaties dealing with the two different theaters of war. The Treaty of Paris between France, Spain and Great Britain ended the war in North America and for overseas territories taken in the conflict. The 1763 Treaty of Hubertusburg ended the war between Saxony, Austria and Prussia.
+	Line «#8:«
+	Line «#9:«The war was successful for Great Britain, which gained the bulk of New France in North America, Spanish Florida, some individual Caribbean islands in the West Indies, the colony of Senegal on the West African coast, and superiority over the French trading outposts on the Indian subcontinent. The Native American tribes were excluded from the settlement; a subsequent conflict, known as Pontiac's War, which was a small scale war between the indigenous tribe known as the Odawas and the British, where the Odawas claimed seven of the ten forts created or taken by the British to show them that they need to distribute land equally amongst their allies, was also unsuccessful in returning them to their pre-war status. In Europe, the war began disastrously for Prussia, but with a combination of good luck and successful strategy, King Frederick the Great managed to retrieve the Prussian position and retain the status quo ante bellum. Prussia solidified its position as a newer European great power. Although Austria failed to retrieve the territory of Silesia from Prussia (its original goal), its military prowess was also noted by the other powers. The involvement of Portugal and Sweden did not return them to their former status as great powers. France was deprived of many of its colonies and had saddled itself with heavy war debts that its inefficient financial system could barely handle. Spain lost Florida but gained French Louisiana and regained control of its colonies, e.g., Cuba and the Philippines, which had been captured by the British during the war.
+	Line «#10:«
+	Line «#11:«
+	»SectionTitle: «Nomenclature
+	Line «#1:«In the historiography of some countries, the war is named after combatants in its respective theatres. In the present-day United States-at the time, the southern English-speaking British colonies in North America-the conflict is known as the French and Indian War (1754-1763). In English-speaking Canada-the balance of Britain's former North American colonies-it is called the Seven Years' War (1756-1763). In French-speaking Canada, it is known as La guerre de la Conquˆte (the War of the Conquest). Swedish historiography uses the name Pommerska kriget (The Pomeranian War), as the Sweden-Prussia conflict between 1757 and 1762 was limited to Pomerania in northern central Germany.[14] The Third Silesian War involved Prussia and Austria (1756-1763). On the Indian subcontinent, the conflict is called the Third Carnatic War (1757-1763).
+	Line «#2:«
+	Line «#3:«The war was described by Winston Churchill[15] as the first "world war",[16] although this label was also given to various earlier conflicts like the Eighty Years' War, the Thirty Years' War, the War of the Spanish Succession and the War of the Austrian Succession, and to later conflicts like the Napoleonic Wars. Contemporaries sometimes informally refer to the war as "World War Zero". The term "Second Hundred Years' War" has been used in order to describe the almost continuous level of worldwide conflict between France and Great Britain during the entire 18th century, reminiscent of the Hundred Years' War of the 14th and 15th centuries.[17] 
+	»SectionTitle: «Background
+	Line «#1:«Frederick saw Saxony and Polish west Prussia as potential fields for expansion, but could not expect French support if he started an aggressive war for them. If he joined the French against the British in the hope of annexing Hanover, he might fall victim to an Austro-Russian attack. The hereditary elector of Saxony, Augustus III, was also elective King of Poland as Augustus III, but the two territories were physically separated by Brandenburg and Silesia. Neither state could pose as a great power. Saxony was merely a buffer between Prussia and Austrian Bohemia, whereas Poland, despite its union with the ancient lands of Lithuania, was prey to pro-French and pro-Russian factions. A Prussian scheme for compensating Frederick Augustus with Bohemia in exchange for Saxony obviously presupposed further spoliation of Austria.
+	Line «#2:«The Seven Years' War, like most European wars of the eighteenth century, was fought as a so-called cabinet war in which disciplined regular armies were equipped and supplied by the state to conduct warfare on behalf of the sovereign's interests. Occupied enemy territories were regularly taxed and extorted for funds, but large-scale atrocities against civilian populations were rare compared with conflicts in the previous century.[28] Military logistics was the decisive factor in many wars, as armies had grown too large to support themselves on prolonged campaigns by foraging and plunder alone. Military supplies were stored in centralised magazines and distributed by baggage trains that were highly vulnerable to enemy raids.[29] Armies were generally unable to sustain combat operations during winter and normally established winter quarters in the cold season, resuming their campaigns with the return of spring.[26] 
+	Line «#3:«The British settlers along the coast were upset that French troops would now be close to the western borders of their colonies. They felt the French would encourage their tribal allies among the North American natives to attack them. Also, the British settlers wanted access to the fertile land of the Ohio River Valley for the new settlers that were flooding into the British colonies seeking farm land.[18]
+	Line «#4:«
+	Line «#5:«The most important French fort planned was intended to occupy a position at "the Forks" where the Allegheny and Monongahela Rivers meet to form the Ohio River (present-day Pittsburgh, Pennsylvania). Peaceful British attempts to halt this fort construction were unsuccessful, and the French proceeded to build the fort they named Fort Duquesne. British colonial militia from Virginia accompanied by Chief Tanacharison and small number of Mingo warriors were then sent to drive them out. Led by George Washington, they ambushed a small French force at Jumonville Glen on 28 May 1754 killing ten, including commander Jumonville.[19] The French retaliated by attacking Washington's army at Fort Necessity on 3 July 1754 and forced Washington to surrender.[20] These were the first engagements of what would become the worldwide Seven Years' War.
+	Line «#6:«
+	Line «#7:«News of this arrived in Europe, where Britain and France unsuccessfully attempted to negotiate a solution. The two nations eventually dispatched regular troops to North America to enforce their claims. The first British action was the assault on Acadia on 16 June 1755 in the Battle of Fort Beaus‚jour,[21] which was immediately followed by their expulsion of the Acadians.[22] In July British Major General Edward Braddock led about 2,000 army troops and provincial militia on an expedition to retake Fort Duquesne, but the expedition ended in disastrous defeat.[23] In further action, Admiral Edward Boscawen fired on the French ship Alcide on 8 June 1755, capturing it and two troop ships. In September 1755, British colonial and French troops met in the inconclusive Battle of Lake George.[24]
+	Line «#8:«
+	Line «#9:«The British also harassed French shipping beginning in August 1755, seizing hundreds of ships and capturing thousands of merchant seamen while the two nations were nominally at peace. Incensed, France prepared to attack Hanover, whose prince-elector was also the King of Great Britain and Menorca. Britain concluded a treaty whereby Prussia agreed to protect Hanover. In response France concluded an alliance with its long-time enemy Austria, an event known as the Diplomatic Revolution. 
+	Line «#10:«
+	Line «#11:«
+	Line «#12:«
+	Line «#13:«
+	Line «#14:«
+	Line «#15:«
+	Line «#16:«
+	Line «#17:«
+	Line «#18:«
+	Line «#19:«
+	Line «#20:«
+	Line «#21:«
+	Line «#22:«
+	Line «#23:«
+	Line «#24:«
+	Line «#25:«
+	Line «#26:«
+	Line «#27:«
+	Line «#28:«
+	»SectionTitle: «Strategies
+	Line «#1:«For much of the eighteenth century, France approached its wars in the same way. It would let colonies defend themselves or would offer only minimal help (sending them limited numbers of troops or inexperienced soldiers), anticipating that fights for the colonies would most likely be lost anyway.[30] This strategy was to a degree forced upon France: geography, coupled with the superiority of the British navy, made it difficult for the French navy to provide significant supplies and support to overseas colonies.[31] Similarly, several long land borders made an effective domestic army imperative for any French ruler.[32] Given these military necessities, the French government, unsurprisingly, based its strategy overwhelmingly on the army in Europe: it would keep most of its army on the continent, hoping for victories closer to home.[32] The plan was to fight to the end of hostilities and then, in treaty negotiations, to trade territorial acquisitions in Europe to regain lost overseas possessions (as had happened in, e.g., the Treaty of Saint-Germain-en-Laye (1632) and the Treaty of Aix-la-Chapelle (1748)). This approach did not serve France well in the war, as the colonies were indeed lost, and although much of the European war went well, by its end France had few counterbalancing European successes.[33]
+	Line «#2:«The British-by inclination as well as for practical reasons-had tended to avoid large-scale commitments of troops on the continent.[34] They sought to offset the disadvantage of this in Europe by allying themselves with one or more continental powers whose interests were antithetical to those of their enemies, particularly France.[35] By subsidising the armies of continental allies, Britain could turn London's enormous financial power to military advantage. In the Seven Years' War, the British chose as their principal partner the most brilliant general of the day, Frederick the Great of Prussia, then the rising power in central Europe, and paid Frederick substantial subsidies for his campaigns.[36] This was accomplished in the diplomatic revolution of 1756, in which Britain ended its long-standing alliance with Austria in favour of Prussia, leaving Austria to side with France. In marked contrast to France, Britain strove to prosecute the war actively overseas, taking full advantage of its naval power.[37][38] The British pursued a dual strategy-naval blockade and bombardment of enemy ports, and rapid movement of troops by sea.[39] They harassed enemy shipping and attacked enemy colonies, frequently using colonists from nearby British colonies in the effort.
+	Line «#3:«
+	Line «#4:«The Russians and the Austrians were determined to reduce the power of Prussia, the new threat on their doorstep, and Austria was anxious to regain Silesia, lost to Prussia in the War of the Austrian Succession. Along with France, Russia and Austria agreed in 1756 to mutual defence and an attack by Austria and Russia on Prussia, subsidized by France.[40] 
+	»SectionTitle: «European theater
+	Line «#1:«
+	Line «#2:«The French planned to invade the British Isles during 1759 by accumulating troops near the mouth of the Loire and concentrating their Brest and Toulon fleets. However, two sea defeats prevented this. In August, the Mediterranean fleet under Jean-Fran‡ois de La Clue-Sabran was scattered by a larger British fleet under Edward Boscawen at the Battle of Lagos. In the Battle of Quiberon Bay on 20 November, the British admiral Edward Hawke with 23 ships of the line caught the French Brest fleet with 21 ships of the line under Marshal de Conflans and sank, captured, or forced many of them aground, putting an end to the French plans.
+	Line «#3:«
+	Line «#4:«Great Britain planned a "descent" (an amphibious demonstration or raid) on Rochefort, a joint operation to overrun the town and burn shipping in the Charente. The expedition set out on 8 September 1757, Sir John Mordaunt commanding the troops and Sir Edward Hawke the fleet. On 23 September the Isle d'Aix was taken, but military staff dithered and lost so much time that Rochefort became unassailable.[101] The expedition abandoned the Isle d'Aix, returning to Great Britain on 1 October.
+	Line «#5:«The troops were reembarked and moved to the Bay of St.ÿLunaire in Brittany where, on 3 September, they were landed to operate against St.ÿMalo; however, this action proved impractical. Worsening weather forced the two armies to separate: the ships sailed for the safer anchorage of St.ÿCast, while the army proceeded overland. The tardiness of Bligh in moving his forces allowed a French force of 10,000 from Brest to catch up with him and open fire on the reembarkation troops. At the battle of Saint Cast a rear-guard of 1,400 under Dury held off the French while the rest of the army embarked. They could not be saved; 750, including Dury, were killed and the rest captured. 
+	Line «#6:«
+	Line «#7:«The Saxon and Austrian armies were unprepared, and their forces were scattered. Frederick occupied Dresden with little or no opposition from the Saxons.[47] At the Battle of Lobositz on 1 October 1756, Frederick stumbled into one of the embarrassments of his career. Severely underestimating a reformed Austrian army under General Maximilian Ulysses Browne, he found himself outmanoeuvred and outgunned, and at one point in the confusion even ordered his troops to fire on retreating Prussian cavalry. Frederick actually fled the field of battle, leaving Field Marshall Keith in command. Browne, however, also left the field, in a vain attempt to meet up with an isolated Saxon army holed up in the fortress at Pirna. As the Prussians technically remained in control of the field of battle, Frederick, in a masterful coverup, claimed Lobositz as a Prussian victory.[48] The Prussians then occupied Saxony; after the Siege of Pirna, the Saxon army surrendered in October 1756, and was forcibly incorporated into the Prussian army. The attack on neutral Saxony caused outrage across Europe and led to the strengthening of the anti-Prussian coalition.[49] The Austrians had succeeded in partially occupying Silesia and, more importantly, denying Frederick winter quarters in Bohemia. Frederick had proven to be overly confident to the point of arrogance and his errors were very costly for Prussia's smaller army. This led him to remark that he did not fight the same Austrians as he had during the previous war.[50][pageÿneeded]
+	Line «#8:«
+	Line «#9:«Britain had been surprised by the sudden Prussian offensive but now began shipping supplies and œ670,000 (equivalent to œ106 million in 2021) to its new ally.[51] A combined force of allied German states was organised by the British to protect Hanover from French invasion, under the command of the Duke of Cumberland.[52] The British attempted to persuade the Dutch Republic to join the alliance, but the request was rejected, as the Dutch wished to remain fully neutral.[53] Despite the huge disparity in numbers, the year had been successful for the Prussian-led forces on the continent, in contrast to the British campaigns in North America. 
+	Line «#10:«
+	Line «#11:«
+	Line «#12:«
+	Line «#13:«
+	Line «#14:«
+	Line «#15:«
+	Line «#16:«
+	Line «#17:«
+	Line «#18:«
+	Line «#19:«
+	Line «#20:«
+	Line «#21:«
+	Line «#22:«
+	Line «#23:«
+	Line «#24:«
+	Line «#25:«
+	Line «#26:«
+	Line «#27:«
+	Line «#28:«
+	Line «#29:«
+	Line «#30:«
+	Line «#31:«
+	Line «#32:«
+	Line «#33:«
+	Line «#34:«
+	Line «#35:«
+	Line «#36:«
+	Line «#37:«
+	Line «#38:«
+	Line «#39:«
+	Line «#40:«
+	Line «#41:«
+	Line «#42:«
+	Line «#43:«
+	Line «#44:«
+	Line «#45:«
+	Line «#46:«
+	Line «#47:«
+	Line «#48:«
+	Line «#49:«
+	Line «#50:«
+	Line «#51:«
+	Line «#52:«
+	Line «#53:«
+	Line «#54:«
+	»SectionTitle: «Other continents
+	Line «#1:«The colonial conflict mainly between France and Britain took place in India, North America, Europe, the West Indies, the Philippines, and coastal Africa. Over the course of the war, Great Britain gained enormous areas of land and influence at the expense of the French and the Spanish Empires.
+	Line «#2:«
+	Line «#3:«Great Britain lost Menorca in the Mediterranean to the French in 1756 but captured Fort Saint Louis, the centre of the French colonies in Senegal, in 1758. More importantly, the British defeated the French in its defence of New France in 1759, with the fall of Quebec. The buffer that French North America had provided to New Spain, the Spanish Empire's most important overseas holding, was now lost. Spain had entered the war after the Third Family Compact (15 August 1761) with France.[103] The British Royal Navy took the French Caribbean sugar colonies of Guadeloupe in 1759 and Martinique in 1762 as well as the Spanish Empire's main port in the West Indies, Havana in Cuba, and its main Asian port of Manila in the Philippines, both major Spanish colonial cities. British attempts at expansion into the hinterlands of Cuba and the Philippines met with stiff resistance. In the Philippines, the British were confined to Manila until their agreed upon withdrawal at the war's end. 
+	»SectionTitle: «North american theater
+	Line «#1:«The history of the Seven Years' War in North America, particularly the expulsion of the Acadians, the siege of Quebec, the death of Wolfe, and the Battle of Fort William Henry generated a vast number of ballads, broadsides, images, and novels (see Longfellow's Evangeline, Benjamin West's The Death of General Wolfe, James Fenimore Cooper's The Last of the Mohicans), maps and other printed materials, which testify to how this event held the imagination of the British and North American public long after Wolfe's death in 1759.[116] 
+	Line «#2:«
+	Line «#3:«In 1756 and 1757 the French captured forts Oswego[105] and William Henry from the British.[106] The latter victory was marred when France's native allies broke the terms of capitulation and attacked the retreating British column, which was under French guard, slaughtering and scalping soldiers and taking captive many men, women and children while the French refused to protect their captives.[107] French naval deployments in 1757 also successfully defended the key Fortress of Louisbourg on Cape Breton Island called Ile du Roi by the French, securing the seaward approaches to Quebec.[108]
+	Line «#4:«
+	Line «#5:«British Prime Minister William Pitt's focus on the colonies for the 1758 campaign paid off with the taking of Louisbourg after French reinforcements were blocked by British naval victory in the Battle of Cartagena and in the successful capture of Fort Duquesne[109] and Fort Frontenac.[110] The British also continued the process of deporting the Acadian population with a wave of major operations against Ile Saint-Jean (present-day Prince Edward Island), and the St.ÿJohn River and the Petitcodiac River valleys. The celebration of these successes was dampened by their embarrassing defeat in the Battle of Carillon (Ticonderoga), in which 4,000 French troops repulsed 16,000 British. When the British led by generals James Abercrombie and George Howe attacked, they believed that the French led by general Marquis de Montcalm were defended only by a small abatis which could be taken easily given the British force's significant numerical advantage. The British offensive which was supposed to advance in tight columns and overwhelm the French defenders fell into confusion and scattered, leaving large spaces in their ranks. When the French Chevalier de Levis sent 1,000 soldiers to reinforce Montcalm's struggling troops, the British were pinned down in the brush by intense French musket fire and they were forced to retreat.
+	Line «#6:«
+	Line «#7:«All of Britain's campaigns against New France succeeded in 1759, part of what became known as an Annus Mirabilis. Fort Niagara[111] and Fort Carillon[112] on 8 July 1759 fell to sizable British forces, cutting off French frontier forts further west. Starting in June 1759, the British under James Wolfe and James Murray set up camp on the Ile d'Orleans across the St. Lawrence River from Quebec, enabling them to commence the 3-month siege that ensued. The French under the Marquis de Montcalm anticipated a British assault to the east of Quebec so he ordered his soldiers to fortify the region of Beauport. On 31 July the British attacked with 4,000 soldiers but the French positioned high up on the cliffs overlooking the Montmorency Falls forced the British forces to withdraw to the Ile d'Orleans. While Wolfe and Murray planned a second offensive, British rangers raided French settlements along the St. Lawrence, destroying food supplies, ammunition and other goods in an attempt to vanquish the French through starvation. 
+	Line «#8:«On 13 September 1759, General James Wolfe led 5,000 troops up a goat path to the Plains of Abraham, 1 mile west of Quebec City. He had positioned his army between Montcalm's forces an hour's march to the east and Bougainville's regiments to the west, which could be mobilised within 3 hours. Instead of waiting for a coordinated attack with Bougainville, Montcalm attacked immediately. When his 3,500 troops advanced, their lines became scattered in a disorderly formation. Many French soldiers fired before they were within range of striking the British. Wolfe organised his troops in two lines stretching 1 mile across the Plains of Abraham. They were ordered to load their Brown Bess muskets with two bullets to obtain maximum power and hold their fire until the French soldiers came within 40 paces of the British ranks. When Montcalm's army was within range of the British, their volley was powerful and nearly all bullets hit their targets, devastating the French ranks. The French fled the Plains of Abraham in a state of utter confusion while they were pursued by members of the Scottish Fraser regiment and other British forces. Despite being cut down by musket fire from the Canadians and their indigenous allies, the British vastly outnumbered these opponents and won the Battle of the Plains of Abraham.[113] General Wolfe was mortally wounded in the chest early in the battle so the command fell to James Murray, who would become the lieutenant governor of Quebec after the war. The Marquis de Montcalm was also severely wounded later in the battle and died the following day. The French abandoned the city and French Canadians led by the Chevalier de Levis staged a counteroffensive on the Plains of Abraham in the spring of 1760, with initial success at the Battle of Sainte-Foy.[114] During the subsequent siege of Quebec, however, L‚vis was unable to retake the city, largely because of British naval superiority following the Battle of Neuville and the Battle of Restigouche, which allowed the British to be resupplied but not the French. The French forces retreated to Montreal in the summer of 1760, and after a two-month campaign by overwhelming British forces, they surrendered on 8 September, essentially ending the French Empire in North America. As the Seven Years War was not yet over in Europe, the British put all of New France under a military regime while awaiting the results. This regime would last from 1760 to 1763.
+	Line «#9:«
+	Line «#10:«
+	Line «#11:«
+	Line «#12:«
+	Line «#13:«
+	Line «#14:«
+	»SectionTitle: «South american theater
+	Line «#1:«In South America (1763), the Portuguese conquered most of the Rio Negro valley,[117][118] and repelled a Spanish attack on Mato Grosso (in the Guapor‚ River).[119][120]
+	Line «#2:«
+	Line «#3:«Between September 1762 and April 1763, Spanish forces led by don Pedro Antonio de Cevallos, Governor of Buenos Aires (and later first Viceroy of the Rio de la Plata) undertook a campaign against the Portuguese in the Banda Oriental, now Uruguay and south Brazil. The Spanish conquered the Portuguese settlement of Colonia do Sacramento and Rio Grande de Sao Pedro and forced the Portuguese to surrender and retreat.
+	Line «#4:«
+	Line «#5:«Under the Treaty of Paris (1763), Spain had to return to Portugal the settlement of Colonia do Sacramento, while the vast and rich territory of the so-called "Continent of S. Peter" (the present-day Brazilian state of Rio Grande do Sul) would be retaken from the Spanish army during the undeclared Hispano-Portuguese war of 1763-1777.[121][122][123][124]
+	Line «#6:«
+	Line «#7:«As consequence of the war the Valdivian Fort System, a Spanish defensive complex in southern Chile, was updated and reinforced from 1764 onwards. Other vulnerable localities of colonial Chile such as Chilo‚ Archipelago, Concepci¢n, Juan Fern ndez Islands and Valpara¡so were also made ready for an eventual English attack.[125][126] The war contributed also to a decision to improve communications between Buenos Aires and Lima resulting in the establishment of a series of mountain shelters in the high Andes called Casuchas del Rey.[127] 
+	»SectionTitle: «Indian theater
+	Line «#1:«In India, the outbreak of the Seven Years' War in Europe renewed the long running conflict between the French and the British trading companies for influence on the subcontinent. The French allied themselves with the Mughal Empire to resist British expansion. The war began in Southern India but spread into Bengal, where British forces under Robert Clive recaptured Calcutta from the Nawab Siraj ud-Daulah, a French ally, and ousted him from his throne at the Battle of Plassey in 1757. In the same year, the British also captured Chandernagar, the French settlement in Bengal.[128]
+	Line «#2:«
+	Line «#3:«In the south, although the French captured Cuddalore, their siege of Madras failed, while the British commander Sir Eyre Coote decisively defeated the Comte de Lally at the Battle of Wandiwash in 1760 and overran the French territory of the Northern Circars. The French capital in India, Pondicherry, fell to the British in 1761; together with the fall of the lesser French settlements of Karikal and Mah‚ this effectively eliminated French power in India.[129] 
+	»SectionTitle: «West african theater
+	Line «#1:«In 1758, at the urging of an American merchant, Thomas Cumming, Pitt dispatched an expedition to take the French settlement at Saint-Louis, Senegal. The British captured Senegal with ease in May 1758 and brought home large amounts of captured goods. This success convinced Pitt to launch two further expeditions to take the island of Gor‚e and the French trading post on the Gambia. The battles in West Africa were ultimately a series of British expeditions against wealthy French colonies. The British and French had been competing for influence in the Gambia region following the acquisition of James Island in 1664 by the English from the Dutch. The loss of these valuable colonies to the British further weakened the French economy.[130]
+	»SectionTitle: «Neutral nations during the seven years war
+	Line «#1:«Denmark-Norway, was another neutral nation during the Seven Years War, although it could be argued that they were a belligerent nation due to close calls. They were very nearly dragged into the war on the side of France due to the actions of the Russian Empire. Tsar Peter III had desired on reclaiming his title of Duke of Holstein-Gottorp, whose lands were being overseen by the current king of Denmark-Norway, Frederick V, and was prepared to attack them to do this. However, luckily for Denmark-Norway, the Russian emperor was deposed by his wife, Catherine II, before war could break out.
+	Line «#2:«
+	Line «#3:«"Our state looks like a majestic and mighty lion from afar. However, a closer look at this lion reveals that it has aged - its teeth have fallen out - its claws have fallen. So, let's leave this old lion to rest for a while."
+	Line «#4:«
+	Line «#5:«Therefore, the Ottoman Empire avoided the major wars that would follow, including the Seven Years' War. The Ottoman Empire, or more accurately its leaders, recognised its internal problems. The previous wars had cost the empire greatly, both in terms of resources and finance, they were facing rebellions from nationalistic uprisings, notably from the Beyliks, and Persia had been reunited under Karim Khan Zand. That said, the Ottoman Empire would launch an abortive invasion of Hungary with 100,000 troops in 1763, contributing to the end of the war.[131] 
+	Line «#6:«Persia ended up under the rule of the Zand Dynasty during the period of the Seven Years War. Like the Ottoman Empire, they were also neutral during the war. They had more pressing matters to attend to. Karim Khan Zand, was busy playing politics and was in the process of legitimising his claim to the Persian throne by placing a puppet king on the throne, Ismail III, the grandson of last Safavid king, in 1757.[132] However, by 1760, he had managed to eliminate all other potential claimants to the throne as well as Ismail III and had established himself as the head of his own dynasty, the aforementioned Zand Dynasty.[133] 
+	Line «#7:«The Dutch Republic had played a central role in the wars against Louis XIV's France,[b] in the late 1600s and early 1700s and that had proved to be very expensive. This motivated the Dutch to try to stay out of major 18th century European conflicts like the War of the Polish Succession and War of the Austrian Succession.[134] Grand Pensionary Laurens van de Spiegel, in 1782, blamed the earlier generations for taking too heavy a burden on their descendants by waging wars on credit.
+	Line «#8:«
+	Line «#9:«"Every new war is a step closer to taking away from the descendants the means of defence they need."
+	Line «#10:«
+	Line «#11:«
+	Line «#12:«
+	Line «#13:«
+	Line «#14:«
+	Line «#15:«
+	Line «#16:«
+	»SectionTitle: «Outcomes
+	Line «#1:«The war also brought to an end the "Old System" of alliances in Europe,[151] In the years after the war, under the direction of Lord Sandwich, the British attempted to re-establish this system. But after her surprising grand success against a coalition of great powers, European states such as Austria, the Dutch Republic, Sweden, Denmark-Norway, the Ottoman Empire and Russia, now saw Britain as a greater threat than France and did not join with it, while the Prussians were angered by what they considered a British betrayal in 1762. Consequently, when the American Revolutionary War turned into a global war between 1778 and 1783, Britain found itself opposed by a strong coalition of European powers, and lacking any substantial ally.[152] 
+	Line «#2:«
+	Line «#3:«In India, the British retained the Northern Circars, but returned all the French trading ports. The treaty, however, required that the fortifications of these settlements be destroyed and never rebuilt, while only minimal garrisons could be maintained there, thus rendering them worthless as military bases. Combined with the loss of France's ally in Bengal and the defection of Hyderabad to the British as a result of the war, this effectively brought French power in India to an end, making way for British hegemony and eventual control of the subcontinent.[139] France's navy was crippled by the war. Only after an ambitious rebuilding program in combination with Spain was France again able to challenge Britain's command of the sea.[140] 
+	Line «#4:«Bute's settlement with France was mild compared with what Pitt's would have been. He had hoped for a lasting peace with France, and he was afraid that if he took too much, the whole of Europe would unite in envious hostility against Great Britain. Choiseul, however, had no intention of making a permanent peace, and, when France went to war with Great Britain during the American Revolution, the British found no support among the European powers.[141] France's defeat caused the French to embark upon major military reforms, with particular attention being paid to the artillery.[142] The origins of the famed French artillery that played a prominent role in the wars of the French Revolution and beyond can to be traced to military reforms that started in 1763.[142]
+	Line «#5:«
+	Line «#6:«The Treaty of Hubertusburg, between Austria, Prussia, and Saxony, was signed on 15 February 1763, at a hunting lodge between Dresden and Leipzig. Negotiations had started there on 31 December 1762. Frederick, who had considered ceding East Prussia to Russia if Peter III helped him secure Saxony, finally insisted on excluding Russia (in fact, no longer a belligerent) from the negotiations. At the same time, he refused to evacuate Saxony until its elector had renounced any claim to reparation. The Austrians wanted at least to retain Glatz, which they had in fact reconquered, but Frederick would not allow it. The treaty simply restored the status quo of 1748, with Silesia and Glatz reverting to Frederick and Saxony to its own elector. The only concession that Prussia made to Austria was to consent to the election of Archduke Joseph as Holy Roman emperor. Saxony emerged from the war weakened and bankrupt; despite losing no territory, Saxony had essentially been a battleground between Prussia and Austria throughout the conflict, with many of its towns and cities (including the capital of Dresden) damaged by bombardment and looting.
+	Line «#7:«
+	Line «#8:«Austria was not able to retake Silesia or make any significant territorial gain. However, it did prevent Prussia from invading parts of Saxony. More significantly, its military performance proved far better than during the War of the Austrian Succession and seemed to vindicate Maria Theresa's administrative and military reforms. Hence, Austria's prestige was restored in great part and the empire secured its position as a major player in the European system.[143][pageÿneeded] Also, by promising to vote for Joseph II in the Imperial elections, Frederick II accepted the Habsburg preeminence in the Holy Roman Empire. The survival of Prussia as a first-rate power and the enhanced prestige of its king and its army, however, was potentially damaging in the long run to Austria's influence in Germany.
+	Line «#9:«
+	Line «#10:«
+	Line «#11:«
+	Line «#12:«
+	Line «#13:«
+	Line «#14:«
+	Line «#15:«
+	Line «#16:«
+	Line «#17:«
+}
+{
+	»ArticleTitle: «William shakespeare
+	»Code 1: «ALMXKSPR
+	»Code 2: «FLMXKSPR
+	»SectionTitle: «Basic info
+	Line «#1:«
+	Line «#2:«Baptised: 26 April 1564
+	Line «#3:«Died: 23 April 1616 (aged 52) in Stratford-upon-Avon, England
+	Line «#4:«Resting Place: Church of the Holy Trinity, Stratford-upon-Avon
+	Line «#5:«Occupations: Playwright, poet, actor
+	Line «#6:«Years Active: 1585-1613
+	Line «#7:«Eras: Elizabethan, Jacobean
+	Line «#8:«Movement: English Renaissance
+	Line «#9:«Spouse: Anne Hathaway (m. 1582)
+	Line «#10:«
+	Line «#11:«
+	»SectionTitle: «Summary
+	Line «#1:«William Shakespeare (bapt. 26 April[b] 1564 - 23 April 1616)[c] was an English playwright, poet and actor. He is widely regarded as the greatest writer in the English language and the world's pre-eminent dramatist.[2][3][4] He is often called England's national poet and the "Bard of Avon" (or simply "the Bard").[5][d] His extant works, including collaborations, consist of some 39 plays,[e] 154 sonnets, three long narrative poems, and a few other verses, some of uncertain authorship. His plays have been translated into every major living language and are performed more often than those of any other playwright.[7] He remains arguably the most influential writer in the English language, and his works continue to be studied and reinterpreted.
+	Line «#2:«Shakespeare was born and raised in Stratford-upon-Avon, Warwickshire. At the age of 18, he married Anne Hathaway, with whom he had three children: Susanna, and twins Hamnet and Judith. Sometime between 1585 and 1592, he began a successful career in London as an actor, writer, and part-owner of a playing company called the Lord Chamberlain's Men, later known as the King's Men. At age 49 (around 1613), he appears to have retired to Stratford, where he died three years later. Few records of Shakespeare's private life survive; this has stimulated considerable speculation about such matters as his physical appearance, his sexuality, his religious beliefs and whether the works attributed to him were written by others.[8][9][10]
+	Line «#3:«Shakespeare produced most of his known works between 1589 and 1613.[11][12][f] His early plays were primarily comedies and histories and are regarded as some of the best works produced in these genres. He then wrote mainly tragedies until 1608, among them Hamlet, Romeo and Juliet, Othello, King Lear, and Macbeth, all considered to be among the finest works in the English language.[2][3][4] In the last phase of his life, he wrote tragicomedies (also known as romances) and collaborated with other playwrights.
+	Line «#4:«Many of Shakespeare's plays were published in editions of varying quality and accuracy in his lifetime. However, in 1623, John Heminges and Henry Condell, two fellow actors and friends of Shakespeare's, published a more definitive text known as the First Folio, a posthumous collected edition of Shakespeare's dramatic works that included all but two of his plays.[13] Its Preface was a prescient poem by Ben Jonson, a former rival of Shakespeare, that hailed Shakespeare with the now famous epithet: "not of an age, but for all time".[13]
+	»SectionTitle: «Life
+	Line «#1:«
+	Line «#2:«Although no attendance records for the period survive, most biographers agree that Shakespeare was probably educated at the King's New School in Stratford,[19][20][21] a free school chartered in 1553,[22] about a quarter-mile (400ÿm) from his home. Grammar schools varied in quality during the Elizabethan era, but grammar school curricula were largely similar: the basic Latin text was standardised by royal decree,[23][24] and the school would have provided an intensive education in grammar based upon Latin classical authors.[25]
+	Line «#3:«At the age of 18, Shakespeare married 26-year-old Anne Hathaway. The consistory court of the Diocese of Worcester issued a marriage licence on 27 November 1582. The next day, two of Hathaway's neighbours posted bonds guaranteeing that no lawful claims impeded the marriage.[26] The ceremony may have been arranged in some haste since the Worcester chancellor allowed the marriage banns to be read once instead of the usual three times,[27][28] and six months after the marriage Anne gave birth to a daughter, Susanna, baptised 26 May 1583.[29] Twins, son Hamnet and daughter Judith, followed almost two years later and were baptised 2 February 1585.[30] Hamnet died of unknown causes at the age of 11 and was buried 11 August 1596.[31]
+	Line «#4:«After the birth of the twins, Shakespeare left few historical traces until he is mentioned as part of the London theatre scene in 1592. The exception is the appearance of his name in the "complaints bill" of a law case before the Queen's Bench court at Westminster dated Michaelmas Term 1588 and 9 October 1589.[32] Scholars refer to the years between 1585 and 1592 as Shakespeare's "lost years".[33] Biographers attempting to account for this period have reported many apocryphal stories. Nicholas Rowe, Shakespeare's first biographer, recounted a Stratford legend that Shakespeare fled the town for London to escape prosecution for deer poaching in the estate of local squire Thomas Lucy. Shakespeare is also supposed to have taken his revenge on Lucy by writing a scurrilous ballad about him.[34][35] Another 18th-century story has Shakespeare starting his theatrical career minding the horses of theatre patrons in London.[36] John Aubrey reported that Shakespeare had been a country schoolmaster.[37] Some 20th-century scholars suggested that Shakespeare may have been employed as a schoolmaster by Alexander Hoghton of Lancashire, a Catholic landowner who named a certain "William Shakeshafte" in his will.[38][39] Little evidence substantiates such stories other than hearsay collected after his death, and Shakeshafte was a common name in the Lancashire area.[40][41]
+	Line «#5:«It is not known definitively when Shakespeare began writing, but contemporary allusions and records of performances show that several of his plays were on the London stage by 1592.[42] By then, he was sufficiently known in London to be attacked in print by the playwright Robert Greene in his Groats-Worth of Wit: "...ÿthere is an upstart Crow, beautified with our feathers, that with his Tiger's heart wrapped in a Player's hide, supposes he is as well able to bombast out a blank verse as the best of you: and being an absolute Johannes factotum, is in his own conceit the only Shake-scene in a country."[43] 
+	Line «#6:«Scholars differ on the exact meaning of Greene's words,[43][44] but most agree that Greene was accusing Shakespeare of reaching above his rank in trying to match such university-educated writers as Christopher Marlowe, Thomas Nashe, and Greene himself (the so-called "University Wits").[45] The italicised phrase parodying the line "Oh, tiger's heart wrapped in a woman's hide" from Shakespeare's Henry VI, Part 3, along with the pun "Shake-scene", clearly identify Shakespeare as Greene's target. As used here, Johannes Factotum ("Jack of all trades") refers to a second-rate tinkerer with the work of others, rather than the more common "universal genius".[43][46]
+	Line «#7:«Greene's attack is the earliest surviving mention of Shakespeare's work in the theatre. Biographers suggest that his career may have begun any time from the mid-1580s to just before Greene's remarks.[47][48][49] After 1594, Shakespeare's plays were performed only by the Lord Chamberlain's Men, a company owned by a group of players, including Shakespeare, that soon became the leading playing company in London.[50] After the death of Queen Elizabeth in 1603, the company was awarded a royal patent by the new King James I, and changed its name to the King's Men.[51]
+	Line «#8:«In 1599, a partnership of members of the company built their own theatre on the south bank of the River Thames, which they named the Globe. In 1608, the partnership also took over the Blackfriars indoor theatre. Extant records of Shakespeare's property purchases and investments indicate that his association with the company made him a wealthy man,[53] and in 1597, he bought the second-largest house in Stratford, New Place, and in 1605, invested in a share of the parish tithes in Stratford.[54]
+	Line «#9:«Some of Shakespeare's plays were published in quarto editions, beginning in 1594, and by 1598, his name had become a selling point and began to appear on the title pages.[55][56][57] Shakespeare continued to act in his own and other plays after his success as a playwright. The 1616 edition of Ben Jonson's Works names him on the cast lists for Every Man in His Humour (1598) and Sejanus His Fall (1603).[58] The absence of his name from the 1605 cast list for Jonson's Volpone is taken by some scholars as a sign that his acting career was nearing its end.[47] The First Folio of 1623, however, lists Shakespeare as one of "the Principal Actors in all these Plays", some of which were first staged after Volpone, although one cannot know for certain which roles he played.[59] In 1610, John Davies of Hereford wrote that "good Will" played "kingly" roles.[60] In 1709, Rowe passed down a tradition that Shakespeare played the ghost of Hamlet's father.[35] Later traditions maintain that he also played Adam in As You Like It, and the Chorus in Henry V,[61][62] though scholars doubt the sources of that information.[63]
+	Line «#10:«
+	Line «#11:«
+	Line «#12:«
+	Line «#13:«
+	Line «#14:«
+	Line «#15:«
+	Line «#16:«
+}
